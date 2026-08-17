@@ -83,7 +83,7 @@
                                 <div class="home-team__photo">
 
                                     <img
-                                        src="{{ asset('build/assets/t1.jpeg') }}"
+                                        src="{{ asset('images/t1.jpeg') }}"
                                         alt="{{ __('Maître Benoît GEUBELLE') }}"
                                         loading="lazy"
                                     >
@@ -113,7 +113,7 @@
                                 <div class="home-team__photo">
 
                                     <img
-                                        src="{{ asset('build/assets/t2.jpeg') }}"
+                                        src="{{ asset('images/t2.jpeg') }}"
                                         alt="{{ __('Marina RENIERS') }}"
                                         loading="lazy"
                                     >
@@ -143,7 +143,7 @@
                                 <div class="home-team__photo">
 
                                     <img
-                                        src="{{ asset('build/assets/t3.jpeg') }}"
+                                        src="{{ asset('images/t3.jpeg') }}"
                                         alt="{{ __('Alicia MOLDES GONZALEZ') }}"
                                         loading="lazy"
                                     >
@@ -184,7 +184,7 @@
                                 <div class="home-team__photo">
 
                                     <img
-                                        src="{{ asset('build/assets/t4.jpeg') }}"
+                                        src="{{ asset('images/t4.jpeg') }}"
                                         alt="{{ __('Eric BRASSEUR') }}"
                                         loading="lazy"
                                     >
@@ -214,7 +214,7 @@
                                 <div class="home-team__photo">
 
                                     <img
-                                        src="{{ asset('build/assets/t5.jpeg') }}"
+                                        src="{{ asset('images/t5.jpeg') }}"
                                         alt="{{ __('Luc POSSOZ') }}"
                                         loading="lazy"
                                     >
@@ -244,7 +244,7 @@
                                 <div class="home-team__photo">
 
                                     <img
-                                        src="{{ asset('build/assets/t6.jpeg') }}"
+                                        src="{{ asset('images/t6.jpeg') }}"
                                         alt="{{ __('Eline DEMUYNCK') }}"
                                         loading="lazy"
                                     >
@@ -285,7 +285,7 @@
                                 <div class="home-team__photo">
 
                                     <img
-                                        src="{{ asset('build/assets/t7.jpeg') }}"
+                                        src="{{ asset('images/t7.jpeg') }}"
                                         alt="{{ __('Océane FEUILLET') }}"
                                         loading="lazy"
                                     >

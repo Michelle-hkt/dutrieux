@@ -25,7 +25,7 @@ class ArticleTable
 
                 'date' => '12 Jan 2025',
 
-                'image' => 'build/assets/services/s.jpeg',
+                'image' => 'images/services/s.jpeg',
 
                 'content' => [
 
@@ -74,7 +74,7 @@ class ArticleTable
 
                 'date' => '05 Fev 2025',
 
-                'image' => 'build/assets/blog/d.jpeg',
+                'image' => 'images/blog/d.jpeg',
 
                 'content' => [
 
@@ -123,7 +123,7 @@ class ArticleTable
 
                 'date' => '19 Mars 2025',
 
-                'image' => 'build/assets/new/im4.jpeg',
+                'image' => 'images/new/im4.jpeg',
 
                 'content' => [
 
@@ -172,7 +172,7 @@ class ArticleTable
 
                 'date' => '28 Juil 2025',
 
-                'image' => 'build/assets/new/im3.jpeg',
+                'image' => 'images/new/im3.jpeg',
 
                 'content' => [
 
@@ -221,7 +221,7 @@ class ArticleTable
 
                 'date' => '01 Août 2025',
 
-                'image' => 'build/assets/blog/p5.jpeg',
+                'image' => 'images/blog/p5.jpeg',
 
                 'content' => [
 
@@ -270,7 +270,7 @@ class ArticleTable
 
                 'date' => '02 Août 2025',
 
-                'image' => 'build/assets/blog/b.jpeg',
+                'image' => 'images/blog/b.jpeg',
 
                 'content' => [
 

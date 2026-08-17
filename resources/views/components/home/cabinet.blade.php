@@ -145,7 +145,7 @@
                         class="home-cabinet__image home-cabinet__image--large animate-zoom-out"
                     >
                         <img
-                            src="{{ asset('build/assets/new/a.jpeg') }}"
+                            src="{{ asset('images/new/a.jpeg') }}"
                             alt="{{ __('Façade du cabinet') }}"
                             loading="lazy"
                         >
@@ -157,7 +157,7 @@
                         class="home-cabinet__image home-cabinet__image--small animate-scale-in animate-delay-2"
                     >
                         <img
-                            src="{{ asset('build/assets/new/im3.jpeg') }}"
+                            src="{{ asset('images/new/im3.jpeg') }}"
                             alt="{{ __('Intérieur élégant du cabinet') }}"
                             loading="lazy"
                         >
