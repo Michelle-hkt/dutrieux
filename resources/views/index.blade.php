@@ -7,7 +7,7 @@
     <x-home.hero />
 
     <x-home.cabinet />
-
+    
     <x-home.philosophy />
 
     <x-home.expertise />
@@ -15,6 +15,8 @@
     <x-home.approach />
 
     <x-home.why-choose-us />
+
+    <x-home.article/>
 
     <x-home.team />
 

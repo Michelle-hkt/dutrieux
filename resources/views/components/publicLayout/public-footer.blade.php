@@ -26,8 +26,7 @@
                 </a>
 
                 <p class="public-footer__description">
-                    Une expertise notariale au service de vos projets,
-                    de vos transactions et de vos engagements.
+                    {{ __('Une expertise notariale au service de vos projets, de vos transactions et de vos engagements.') }}
                 </p>
 
             </div>
@@ -39,32 +38,32 @@
             <div class="col-6 col-lg-3">
 
                 <h3 class="public-footer__title">
-                    Navigation
+                    {{ __('Navigation') }}
                 </h3>
 
                 <ul class="public-footer__links list-unstyled mb-0">
 
                     <li>
                         <a href="{{ url('/') }}">
-                            Accueil
+                            {{ __('Accueil') }}
                         </a>
                     </li>
 
                     <li>
                         <a href="{{ url('services') }}">
-                            Nos services
+                            {{ __('Nos services') }}
                         </a>
                     </li>
 
                     <li>
                         <a href="{{ url('/blog') }}">
-                            Article & blog
+                            {{ __('Article & blog') }}
                         </a>
                     </li>
 
                     <li>
                         <a href="{{ url('/appointment') }}">
-                            Rendez-vous
+                            {{ __('Rendez-vous') }}
                         </a>
                     </li>
 
@@ -79,7 +78,7 @@
             <div class="col-6 col-lg-4">
 
                 <h3 class="public-footer__title">
-                    Contact
+                    {{ __('Contact') }}
                 </h3>
 
                 <div class="public-footer__contact">
@@ -100,7 +99,7 @@
 
                     <p>
                         <i class="bi bi-envelope"></i>
-                        <a href="mailto:contact@dutrieux.notaires">
+                        <a href="mailto:contact@cabinetdutrieux.be">
                             contact@cabinetdutrieux.be
                         </a>
                     </p>
@@ -119,17 +118,17 @@
 
             <p class="mb-0">
                 © {{ date('Y') }} Cabinet Dutrieux.
-                Tous droits réservés.
+                {{ __('Tous droits réservés.') }}
             </p>
 
             <div class="public-footer__legal">
 
                 <a href="#">
-                    Mentions légales
+                    {{ __('Mentions légales') }}
                 </a>
 
-                <a href= "{{ url('/privacy-policy') }}" >
-                    Politique de confidentialité
+                <a href="{{ url('/privacy-policy') }}">
+                    {{ __('Politique de confidentialité') }}
                 </a>
 
             </div>

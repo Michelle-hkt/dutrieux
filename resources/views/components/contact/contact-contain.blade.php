@@ -85,8 +85,9 @@
                                     </div>
 
                                     <div class="contact-info__value">
-                                        Lun - Ven:<br>8h30 à 12h30<br>
-                                        13h30 à 17h00
+                                        {{ __('Lun - Ven:') }}<br>
+                                        {{ __('8h30 à 12h30') }}<br>
+                                        {{ __('13h30 à 17h00') }}
                                     </div>
 
                                     <div class="contact-info__appointment">
@@ -141,13 +142,13 @@
                                         class="form-control"
                                         id="firstname"
                                         name="firstname"
-                                        placeholder="Prénom"
+                                        placeholder="{{ __('Prénom') }}"
                                         value="{{ old('firstname') }}"
                                         required
                                     >
 
                                     <label for="firstname">
-                                        Prénom
+                                        {{ __('Prénom') }}
                                     </label>
                                 </div>
                             </div>
@@ -159,13 +160,13 @@
                                         class="form-control"
                                         id="lastname"
                                         name="lastname"
-                                        placeholder="Nom"
+                                        placeholder="{{ __('Nom') }}"
                                         value="{{ old('lastname') }}"
                                         required
                                     >
 
                                     <label for="lastname">
-                                        Nom
+                                        {{ __('Nom') }}
                                     </label>
                                 </div>
                             </div>
@@ -183,13 +184,13 @@
                                         class="form-control"
                                         id="email"
                                         name="email"
-                                        placeholder="Email"
+                                        placeholder="{{ __('Email') }}"
                                         value="{{ old('email') }}"
                                         required
                                     >
 
                                     <label for="email">
-                                        Email
+                                        {{ __('Email') }}
                                     </label>
                                 </div>
                             </div>
@@ -201,12 +202,12 @@
                                         class="form-control"
                                         id="phone"
                                         name="phone"
-                                        placeholder="Téléphone"
+                                        placeholder="{{ __('Téléphone') }}"
                                         value="{{ old('phone') }}"
                                     >
 
                                     <label for="phone">
-                                        Téléphone
+                                        {{ __('Téléphone') }}
                                     </label>
                                 </div>
                             </div>
@@ -221,13 +222,13 @@
                                 class="form-control"
                                 id="object"
                                 name="object"
-                                placeholder="Objet"
+                                placeholder="{{ __('Objet') }}"
                                 value="{{ old('object') }}"
                                 required
                             >
 
                             <label for="object">
-                                Objet
+                                {{ __('Objet') }}
                             </label>
                         </div>
 
@@ -238,12 +239,12 @@
                                 class="form-control contact-field__textarea"
                                 id="message"
                                 name="message"
-                                placeholder="Message"
+                                placeholder="{{ __('Message') }}"
                                 required
                             >{{ old('message') }}</textarea>
 
                             <label for="message">
-                                Message
+                                {{ __('Message') }}
                             </label>
                         </div>
 
@@ -264,10 +265,10 @@
                                 class="form-check-label"
                                 for="privacy"
                             >
-                                'J’accepte que mes données soient traitées par le Cabinet Dutrieux afin de répondre à ma demande. Pour plus d’informations, consultez notre
+                                {{ __('J’accepte que mes données soient traitées par le Cabinet Dutrieux afin de répondre à ma demande. Pour plus d’informations, consultez notre') }}
 
-                                <a href="#">
-                                    'politique de confidentialité
+                                <a href= "{{ route('privacy-policy') }}" > 
+                                    {{ __('politique de confidentialité') }}
                                 </a>.
                             </label>
 
@@ -281,7 +282,7 @@
                                 type="submit"
                                 class="btn contact-form__button"
                             >
-                                Envoyer ma demande
+                                {{ __('Envoyer ma demande') }}
 
                                 <i class="bi bi-arrow-right"></i>
                             </button>

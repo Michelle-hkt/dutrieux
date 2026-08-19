@@ -153,7 +153,7 @@
                         href="{{ route('appointment') }}"
                         class="blog-header__appointment"
                     >
-                        {{ __('PENDRE RENDEZ-VOUS') }}
+                        {{ __('PRENDRE RENDEZ-VOUS') }}
                     </a>
 
                 </div>

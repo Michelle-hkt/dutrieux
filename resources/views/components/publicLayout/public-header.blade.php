@@ -112,7 +112,7 @@
                             {{ strtoupper(app()->getLocale()) }}
                         </button>
 
-                        <ul class="dropdown-menu dropdown-menu-end">
+                        <ul class="dropdown-menu ">
 
                             {{-- Français --}}
                             <li>
@@ -140,13 +140,13 @@
 
 
                     {{-- =================================================
-                         DASHBOARD
+                        action  button
                     ================================================== --}}
                     <a
                         href="{{ route('appointment') }}"
                         class="blog-header__appointment"
                     >
-                        {{ __('PENDRE RENDEZ-VOUS') }}
+                        {{ __('PRENDRE RENDEZ-VOUS') }}
                     </a>
 
                 </div>

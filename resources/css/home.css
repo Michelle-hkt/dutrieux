@@ -1260,6 +1260,118 @@
     line-height: 1;
 }
 
+/* =========================================================
+   HOME — ARTICLES / BLOG
+========================================================= */
+
+.home-article {
+    padding: 7rem 0;
+
+    background-color: #faf4e9;
+}
+
+
+/* =========================================================
+   HEADER
+========================================================= */
+
+.home-article__header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+
+    gap: 2rem;
+
+    margin-bottom: 3.5rem;
+}
+
+
+/* =========================================================
+   KICKER
+========================================================= */
+
+.home-article__kicker {
+    display: inline-block;
+
+    margin-bottom: 1rem;
+
+    color: #8B1A1A;
+
+    font-size: 0.75rem;
+    font-weight: 700;
+
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+}
+
+
+/* =========================================================
+   TITRE
+========================================================= */
+
+.home-article__title {
+    margin: 0;
+
+    font-family: Georgia, "Times New Roman", serif;
+
+    color: #0A131F;
+
+    font-size: clamp(2rem, 3vw, 2.6rem);
+    font-weight: 700;
+
+    line-height: 1.2;
+}
+
+
+/* =========================================================
+   BOUTON — VOIR PLUS
+========================================================= */
+
+.home-article__more {
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    gap: 0.65rem;
+
+    color: #8B1A1A;
+
+    font-size: 1rem;
+    font-weight: 700;
+
+    text-decoration: none;
+
+    white-space: nowrap;
+
+    transition:
+        color 0.25s ease,
+        gap 0.25s ease;
+}
+
+
+.home-article__more:hover {
+    color: #0A131F;
+
+    gap: 0.9rem;
+}
+
+
+/* =========================================================
+   FLÈCHE
+========================================================= */
+
+.home-article__more i {
+    font-size: 0.85rem;
+
+    transition: transform 0.25s ease;
+}
+
+
+.home-article__more:hover i {
+    transform: translateX(3px);
+}
+
 
 /* =========================================================
    HOME — TEAM
@@ -1855,6 +1967,41 @@
     .home-team__photo {
         width: 88px;
         height: 88px;
+    }
+
+}
+
+/* =========================================================
+   ARTICLES — RESPONSIVE
+========================================================= */
+
+@media (max-width: 991.98px) {
+
+    .home-article {
+        padding: 5.5rem 0;
+    }
+
+}
+
+
+@media (max-width: 767.98px) {
+
+    .home-article {
+        padding: 4.5rem 0;
+    }
+
+    .home-article__header {
+        align-items: flex-start;
+
+        flex-direction: column;
+
+        gap: 1.25rem;
+
+        margin-bottom: 2.5rem;
+    }
+
+    .home-article__title {
+        font-size: 2rem;
     }
 
 }
@@ -2483,7 +2630,7 @@
 
         clip-path: none;
 
-        background-color: #8B1A1A;
+        background-color: #8b1a1adc;
     }
 
     .home-hero__content {

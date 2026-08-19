@@ -13,11 +13,11 @@
             <div class="home-team__heading">
 
                 <span class="home-team__kicker animate-reveal-left">
-                    L'ÉQUIPE
+                    {{ __("L'ÉQUIPE") }}
                 </span>
 
                 <h2 class="home-team__title animate-reveal-up animate-delay-1">
-                    Nos Membres Associés.
+                    {{ __('Nos Membres Associés.') }}
                 </h2>
 
             </div>
@@ -91,11 +91,11 @@
                                 </div>
 
                                 <h3 class="home-team__name">
-                                   Maître Benoît GEUBELLE
+                                   {{ __('Maître') }} Benoît GEUBELLE
                                 </h3>
 
                                 <span class="home-team__role">
-                                    Notaire titulaire
+                                   {{ __('Notaire titulaire') }}
                                 </span>
 
                             </article>
@@ -125,7 +125,7 @@
                                 </h3>
 
                                 <span class="home-team__role">
-                                    Collaboratrice
+                                    {{ __('Collaboratrice') }}
                                 </span>
 
                             </article>
@@ -155,7 +155,7 @@
                                 </h3>
 
                                 <span class="home-team__role">
-                                    Juriste
+                                    {{ __('Juriste') }}
                                 </span>
 
                             </article>
@@ -196,7 +196,7 @@
                                 </h3>
 
                                 <span class="home-team__role">
-                                    Juriste
+                                    {{ __('Juriste') }}
                                 </span>
 
                             </article>
@@ -226,7 +226,7 @@
                                 </h3>
 
                                 <span class="home-team__role">
-                                    Notaire honoraire
+                                    {{ __('Notaire honoraire') }}
                                 </span>
 
                             </article>
@@ -256,7 +256,7 @@
                                 </h3>
 
                                 <span class="home-team__role">
-                                    Collaboratrice
+                                    {{ __('Collaboratrice') }}
                                 </span>
 
                             </article>
@@ -297,7 +297,7 @@
                                 </h3>
 
                                 <span class="home-team__role">
-                                    Juriste
+                                    {{ __('Juriste') }}
                                 </span>
 
                             </article>

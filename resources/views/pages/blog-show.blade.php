@@ -61,7 +61,7 @@
 
                     <span class="blog-detail__meta-item">
                         <i class="bi bi-clock" aria-hidden="true"></i>
-                        <span>{{ $article['reading_time'] ?? '6 min de lecture' }}</span>
+                        <span>{{ $article['reading_time'] ?? __('6 min de lecture') }}</span>
                     </span>
 
                 </div>

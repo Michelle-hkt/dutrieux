@@ -62,7 +62,7 @@
                     href="mailto:contact@cabinetdutrieux.be"
                     class="main-contain-info__link"
                 >
-                    hounkpatinmichelle@gmail.com
+                    contact@cabinetdutrieux.be
                 </a>
             </div>
 
@@ -88,7 +88,7 @@
                 </span>
 
                 <span>
-                    8h30 - 12h30 / 13h30 - 17h00
+                    {{ __('8h30 - 12h30 / 13h30 - 17h00') }}
                 </span>
             </div>
 
