@@ -345,12 +345,12 @@
 
                     <p>
                         <strong>{{ __('E-mail :') }}</strong>
-                        contact@cabinetdutrieux.be
+                        contact@cabinetdutrieux.be / maitre.dutrieux@gmail.com
                     </p>
 
                     <p>
                         <strong>{{ __('E-mail relatif à la protection des données :') }}</strong>
-                        contact@cabinetdutrieux.be
+                        contact@cabinetdutrieux.be / maitre.dutrieux@gmail.com
                     </p>
 
                 </div>
@@ -878,7 +878,7 @@
 
                     <p>
                         <strong>{{ __('E-mail :') }}</strong>
-                        contact@cabinetdutrieux.be
+                        contact@cabinetdutrieux.be / maitre.dutrieux@gmail.com
                     </p>
 
                 </div>
@@ -1090,7 +1090,7 @@
 
                     <p>
                         <strong>{{ __('E-mail :') }}</strong>
-                        contact@cabinetdutrieux.be
+                        contact@cabinetdutrieux.be / maitre.dutrieux@gmail.com
                     </p>
 
                     <p>

@@ -73,7 +73,7 @@
 
                     <div class="row g-4">
 
-                        {{-- Benoît GEUBELLE --}}
+                        {{-- Yves DUTRIEUX --}}
                         <div class="col-12 col-md-6 col-lg-4">
 
                             <article
@@ -84,14 +84,14 @@
 
                                     <img
                                         src="{{ asset('images/t1.jpeg') }}"
-                                        alt="{{ __('Maître Benoît GEUBELLE') }}"
+                                        alt="{{ __('Maître Yves DUTRIEUX') }}"
                                         loading="lazy"
                                     >
 
                                 </div>
 
                                 <h3 class="home-team__name">
-                                   {{ __('Maître') }} Benoît GEUBELLE
+                                   {{ __('Maître') }} Yves DUTRIEUX
                                 </h3>
 
                                 <span class="home-team__role">
@@ -103,7 +103,7 @@
                         </div>
 
 
-                        {{-- Marina RENIERS --}}
+                        {{-- Marina RENIERS  --}}
                         <div class="col-12 col-md-6 col-lg-4">
 
                             <article
@@ -114,14 +114,14 @@
 
                                     <img
                                         src="{{ asset('images/t2.jpeg') }}"
-                                        alt="{{ __('Marina RENIERS') }}"
+                                        alt="{{ __('Marina RENIERS ') }}"
                                         loading="lazy"
                                     >
 
                                 </div>
 
                                 <h3 class="home-team__name">
-                                    Marina RENIERS
+                                    Marina RENIERS 
                                 </h3>
 
                                 <span class="home-team__role">
@@ -133,7 +133,7 @@
                         </div>
 
 
-                        {{-- Alicia MOLDES GONZALEZ --}}
+                        {{-- Alicia Houset --}}
                         <div class="col-12 col-md-6 col-lg-4">
 
                             <article
@@ -144,14 +144,14 @@
 
                                     <img
                                         src="{{ asset('images/t3.jpeg') }}"
-                                        alt="{{ __('Alicia MOLDES GONZALEZ') }}"
+                                        alt="{{ __('Alicia Houset') }}"
                                         loading="lazy"
                                     >
 
                                 </div>
 
                                 <h3 class="home-team__name">
-                                    Alicia MOLDES GONZALEZ
+                                   Alicia Houset
                                 </h3>
 
                                 <span class="home-team__role">
@@ -172,9 +172,9 @@
                 ================================================== --}}
                 <div class="carousel-item">
 
-                    <div class="row g-4">
+                    <div class="row g-4 justify-content-center">
 
-                        {{-- Eric BRASSEUR --}}
+                        {{-- Mélissa Henri --}}
                         <div class="col-12 col-md-6 col-lg-4">
 
                             <article
@@ -185,119 +185,18 @@
 
                                     <img
                                         src="{{ asset('images/t4.jpeg') }}"
-                                        alt="{{ __('Eric BRASSEUR') }}"
+                                        alt="{{ __('Mélissa Henri') }}"
                                         loading="lazy"
                                     >
 
                                 </div>
 
                                 <h3 class="home-team__name">
-                                    Eric BRASSEUR
+                                    Mélissa Henri
                                 </h3>
 
                                 <span class="home-team__role">
-                                    {{ __('Juriste') }}
-                                </span>
-
-                            </article>
-
-                        </div>
-
-
-                        {{-- Luc POSSOZ --}}
-                        <div class="col-12 col-md-6 col-lg-4">
-
-                            <article
-                                class="home-team__card animate-team-card"
-                            >
-
-                                <div class="home-team__photo">
-
-                                    <img
-                                        src="{{ asset('images/t5.jpeg') }}"
-                                        alt="{{ __('Luc POSSOZ') }}"
-                                        loading="lazy"
-                                    >
-
-                                </div>
-
-                                <h3 class="home-team__name">
-                                    Luc POSSOZ
-                                </h3>
-
-                                <span class="home-team__role">
-                                    {{ __('Notaire honoraire') }}
-                                </span>
-
-                            </article>
-
-                        </div>
-
-
-                        {{-- Eline DEMUYNCK --}}
-                        <div class="col-12 col-md-6 col-lg-4">
-
-                            <article
-                                class="home-team__card animate-team-card"
-                            >
-
-                                <div class="home-team__photo">
-
-                                    <img
-                                        src="{{ asset('images/t6.jpeg') }}"
-                                        alt="{{ __('Eline DEMUYNCK') }}"
-                                        loading="lazy"
-                                    >
-
-                                </div>
-
-                                <h3 class="home-team__name">
-                                   Eline DEMUYNCK
-                                </h3>
-
-                                <span class="home-team__role">
-                                    {{ __('Collaboratrice') }}
-                                </span>
-
-                            </article>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-                {{-- =================================================
-                     SLIDE 3
-                ================================================== --}}
-                <div class="carousel-item">
-
-                    <div class="row g-4 justify-content-center">
-
-                        {{-- Océane FEUILLET --}}
-                        <div class="col-12 col-md-6 col-lg-4">
-
-                            <article
-                                class="home-team__card animate-team-card"
-                            >
-
-                                <div class="home-team__photo">
-
-                                    <img
-                                        src="{{ asset('images/t7.jpeg') }}"
-                                        alt="{{ __('Océane FEUILLET') }}"
-                                        loading="lazy"
-                                    >
-
-                                </div>
-
-                                <h3 class="home-team__name">
-                                    Océane FEUILLET
-                                </h3>
-
-                                <span class="home-team__role">
-                                    {{ __('Juriste') }}
+                                    {{ __('Notaire Honoraire') }}
                                 </span>
 
                             </article>

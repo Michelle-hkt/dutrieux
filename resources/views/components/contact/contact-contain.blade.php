@@ -67,10 +67,17 @@
                                     </div>
 
                                     <a
-                                        href="mailto:hounkpatinmichelle@gmail.com"
+                                        href="mailto:contact@cabinetdutrieux.be"
                                         class="contact-info__value contact-info__link"
                                     >
                                         contact@cabinetdutrieux.be
+                                    </a>
+
+                                    <a
+                                        href="mailto:maitre.dutrieux@gmail.com"
+                                        class="contact-info__value contact-info__link"
+                                    >
+                                        maitre.dutrieux@gmail.com
                                     </a>
                                 </div>
                             </div>

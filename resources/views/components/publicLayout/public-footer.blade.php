@@ -101,6 +101,9 @@
                         <i class="bi bi-envelope"></i>
                         <a href="mailto:contact@cabinetdutrieux.be">
                             contact@cabinetdutrieux.be
+                        </a> /
+                        <a href="mailto:maitre.dutrieux@gmail.com">
+                            maitre.dutrieux@gmail.com
                         </a>
                     </p>
 

@@ -52,17 +52,24 @@
         <div class="main-contain-info__value">
 
             <div>
-                <strong>T.</strong>
+                <strong>Tel</strong><br>
                 +32 465 50 28 01
             </div>
 
             <div>
-                <strong>E.</strong>
+                <strong>Email</strong><br>
                 <a
                     href="mailto:contact@cabinetdutrieux.be"
                     class="main-contain-info__link"
                 >
                     contact@cabinetdutrieux.be
+                </a>
+
+                <a
+                    href="mailto:maitre.dutrieux@gmail.com"
+                    class="main-contain-info__link"
+                >
+                    maitre.dutrieux@gmail.com
                 </a>
             </div>
 
