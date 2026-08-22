@@ -18,14 +18,14 @@
                 <div class="home-hero__content">
 
                     <h1 class="home-hero__title animate-fade-in-up animate-delay-500">
-                        {{ __('HERO_TITRE_PART_1') }}
+                        {{ __("Conseiller aujourd'hui") }}
                         <br>
-                        {{ __('HERO_TITRE_PART_2') }}
+                        {{ __('sécuriser demain.') }}
                     </h1>
 
 
                     <p class="home-hero__description animate-fade-in-up animate-delay-700">
-                        {{ __('HERO_DESCRIPTION') }}
+                        {{ __('Le Cabinet Dutrieux vous accompagne dans vos choix des étapes de votre vie personnelle, familiale et professionnelle.') }}
                     </p>
 
 
@@ -35,7 +35,7 @@
                             href="{{ route('services') }}"
                             class="btn home-hero__button home-hero__button--primary"
                         >
-                            {{ __('HERO_BTN_1') }}
+                            {{ __('Découvrez nos services') }}
                         </a>
 
 
@@ -43,7 +43,7 @@
                             href="{{ route('contact') }}"
                             class="btn home-hero__button home-hero__button--outline"
                         >
-                            {{ __('HERO_BTN_2') }}
+                            {{ __('Nous Contacter') }}
                             <span aria-hidden="true">→</span>
                         </a>
 

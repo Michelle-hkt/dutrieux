@@ -12,7 +12,7 @@
     "src": "public/images/new/acc.jpeg"
   },
   "resources/css/app.css": {
-    "file": "assets/app-CNBZG5Rp.css",
+    "file": "assets/app-DGwH2F87.css",
     "src": "resources/css/app.css",
     "isEntry": true,
     "name": "app",
@@ -21,7 +21,7 @@
     ]
   },
   "resources/js/app.js": {
-    "file": "assets/app-C3T2XBEe.js",
+    "file": "assets/app-DU6SjU6o.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,

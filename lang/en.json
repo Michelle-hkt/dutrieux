@@ -1,18 +1,14 @@
 {
     "ACCUEIL": "HOME",
-    "NOS SERVICES": "OUR SERVICES",
-    "ARTICLES & BLOG": "ARTICLES & BLOG",
-    "CONTACT": "CONTACT",
-    "RENDEZ-VOUS": "APPOINTMENTS",
     "Français": "French",
     "English": "English",
     "PRENDRE RENDEZ-VOUS": "MAKE AN APPOINTMENT",
     "Dashboard": "Dashboard",
-    "HERO_TITRE_PART_1": "Advising today",
-    "HERO_TITRE_PART_2": "securing tomorrow",
-    "HERO_DESCRIPTION": "The Dutrieux firm supports you in your choices at every stage of your personal, family and professional life.",
-    "HERO_BTN_1": "Our services",
-    "HERO_BTN_2": "Contact us",
+    "Conseiller aujourd'hui": "Advising today",
+    "sécuriser demain.": "securing tomorrow",
+    "Le Cabinet Dutrieux vous accompagne dans vos choix des étapes de votre vie personnelle, familiale et professionnelle.": "The Dutrieux firm supports you in your choices at every stage of your personal, family and professional life.",
+    "Découvrez nos services": "Our services",
+    "Nous Contacter": "Contact us",
     "LE CABINET": "THE FIRM",
     "Une expertise juridique au service de vos projets et de votre avenir.": "Legal expertise at the service of your projects and your future.",
     "Notre mission est de vous apporter des conseils clairs, structurés et adaptés à chaque étape importante de votre vie.": "Our mission is to provide you with clear, structured advice tailored to every important stage of your life.",
@@ -68,13 +64,10 @@
     "Actualités": "News",
     "Nos dernières actualités": "Our latest news",
     "Voir plus": "See more",
-
     "Acheter un bien immobilier en Belgique : les étapes à connaître avant de signer": "Buying property in Belgium: the steps to know before signing",
     "Découvrez les principales étapes à connaître avant de concrétiser votre projet d’achat immobilier en Belgique.": "Discover the main steps to know before completing your property purchase project in Belgium.",
-
     "Quels frais prévoir lors de l’achat d’un bien immobilier en Belgique ?": "What costs should you expect when buying property in Belgium?",
     "Prix du bien, taxes, frais d’acte et financement : découvrez les principaux coûts à anticiper lors d’un achat immobilier en Belgique.": "Property price, taxes, deed fees and financing: discover the main costs to anticipate when buying property in Belgium.",
-
     "Vendre son bien immobilier : que fait réellement le notaire et quelles sont les étapes ?": "Selling your property: what does the notary actually do and what are the steps?",
     "Découvrez les principales étapes d’une vente immobilière et le rôle du notaire dans la préparation et la sécurisation de la transaction.": "Discover the main steps of a property sale and the role of the notary in preparing and securing the transaction.",
     "12 Jan 2025": "Jan 12, 2025",
@@ -103,9 +96,10 @@
     "Rendez-vous": "Appointments",
     "Contact": "Contact",
     "Tous droits réservés.": "All rights reserved.",
-    "Mentions légales": "Legal notice",
-    "Politique de confidentialité": "Privacy Policy",
+    
 
+
+    "NOS SERVICES": "OUR SERVICES",
     "Nos domaines d’expertise": "Our areas of expertise",
     "Des compétences complémentaires pour vous accompagner dans les décisions qui comptent. Notre cabinet met à votre disposition une expertise juridique pointue, ancrée dans la tradition notariale et tournée vers la modernité, pour sécuriser vos projets et défendre vos intérêts avec rigueur et dévouement.": "Complementary expertise to support you in the decisions that matter. Our firm provides you with in-depth legal expertise, rooted in the notarial tradition and oriented towards modernity, to secure your projects and protect your interests with rigor and dedication.",
     "Droit immobilier": "Real Estate Law",
@@ -117,7 +111,6 @@
     "Financement et refinancement hypothécaire": "Mortgage financing and refinancing",
     "etc.": "etc.",
     "Prendre rendez-vous": "Make an appointment",
-
     "Droit des personnes et de la famille": "Personal and Family Law",
     "Le droit de la famille englobe des décisions cruciales qui jalonnent la vie : mariage, régime matrimonial, testament, succession. Faire appel à un notaire permet de bénéficier d’un accompagnement précis, garantissant la sécurité et la conformité de vos actes. Nous protégeons les intérêts de toutes les parties avec des conseils avisés et personnalisés, adaptés à chaque situation.": "Family law covers important decisions throughout life, including marriage, matrimonial arrangements, wills and estates. Working with a notary provides precise guidance, ensuring the security and legal validity of your documents. We protect the interests of all parties through informed and personalised advice tailored to each situation.",
     "Contrat de mariage": "Marriage contract",
@@ -127,7 +120,6 @@
     "Procuration": "Power of attorney",
     "Mandat extrajudiciaire": "Extrajudicial mandate",
     "Planification successorale et patrimoniale": "Estate and wealth planning",
-
     "Planification patrimoniale, testaments et successions": "Estate Planning, Wills and Estates",
     "Il est essentiel de penser dès aujourd’hui à ce qui adviendra demain. Donation, droits de succession, indivision, dispositions testamentaires : nous répondons à toutes vos questions et vous accompagnons à chaque étape du règlement de votre succession, selon vos désirs et votre situation familiale.": "It is essential to plan today for what will happen tomorrow. Gifts, inheritance taxes, co-ownership and testamentary provisions: we answer all your questions and support you throughout the settlement of your estate, according to your wishes and family circumstances.",
     "Vérification, recherche et rédaction testamentaire": "Will verification, research and drafting",
@@ -135,7 +127,6 @@
     "Déclaration et prise en charge de succession": "Estate declaration and administration",
     "Liquidation successorale": "Estate settlement",
     "Déclaration d’hérédité": "Declaration of inheritance",
-
     "Droit des sociétés": "Corporate Law",
     "Créer sa société est une aventure passionnante qui exige rigueur et conformité aux réglementations en vigueur. Notre équipe vous accompagne dès la création de votre entreprise, dans la préparation des documents et contrats essentiels à la bonne marche de vos activités et à la gestion harmonieuse entre actionnaires.": "Setting up a company is an exciting undertaking that requires rigour and compliance with applicable regulations. Our team supports you from the creation of your company, helping prepare the essential documents and agreements required for the smooth running of your business and harmonious relations between shareholders.",
     "Constitution de votre société": "Company incorporation",
@@ -145,6 +136,8 @@
     "Fusion d’entreprise": "Business merger",
     "Liquidation et dissolution d’entreprise": "Company liquidation and dissolution",
 
+
+    "CONTACT": "CONTACT",
     "Parlons de votre projet.": "Let's talk about your project.",
     "Une question ? Un projet ? Une décision importante ? Le Cabinet Dutrieux est à votre écoute pour vous accompagner avec précision et clarté.": "A question? A project? An important decision? Cabinet Dutrieux is here to listen and support you with precision and clarity.",
     "Cabinet Dutrieux": "Cabinet Dutrieux",
@@ -164,10 +157,11 @@
     "politique de confidentialité": "privacy policy",
     "Envoyer ma demande": "Send my request",
 
+
+    "RENDEZ-VOUS": "APPOINTMENTS",
     "Prenons le temps d’échanger.": "Let's take the time to talk.",
     "Choisissez le créneau qui vous convient et indiquez-nous les informations nécessaires à la préparation de votre rendez-vous.": "Choose the time slot that suits you and provide us with the information needed to prepare for your appointment.",
     "Calendrier": "Calendar",
-
     "Motif du rendez-vous": "Reason for appointment",
     "Sélectionnez un motif": "Select a reason",
     "Immobilier": "Real estate",
@@ -176,17 +170,13 @@
     "Patrimoine": "Estate planning",
     "Entreprise": "Business",
     "Autre": "Other",
-
     "Heure du rendez-vous": "Appointment time",
     "Choisissez une heure": "Choose a time",
-
     "Vos coordonnées": "Your contact details",
     "Votre nom": "Your last name",
     "Votre prénom": "Your first name",
-
     "Message ou notes pour le rendez-vous": "Message or notes for the appointment",
     "Précisions éventuelles...": "Additional information...",
-
     "Confirmer mon rendez-vous": "Confirm my appointment",
     "Informations du Cabinet": "Firm Information",
     "Notre cabinet": "Our firm",
@@ -194,6 +184,9 @@
     "Lun - Ven :": "Mon - Fri:",
     "8h30 - 12h30 / 13h30 - 17h00": "8:30 AM - 12:30 PM / 1:30 PM - 5:00 PM",
 
+
+
+    "ARTICLES & BLOG": "ARTICLES & BLOG",
     "Blog": "Blog",
     "Découvrez sur notre blog des informations juridiques et conseils dans les différents domaines du droit notarial.": "Discover legal information and advice on our blog covering various areas of notarial law.",
     "Nos articles": "Our articles",
@@ -203,426 +196,442 @@
     "6 min de lecture": "6 min read",
     "Succession en Belgique : que se passe-t-il après le décès d’un proche ?": "Inheritance in Belgium: what happens after the death of a loved one?",
     "Comprendre les principales étapes d’une succession en Belgique permet aux héritiers d’aborder les démarches avec davantage de sérénité.": "Understanding the main stages of an inheritance in Belgium allows heirs to approach the necessary procedures with greater peace of mind.",
-
     "Comment protéger et transmettre son patrimoine en Belgique ? Les solutions à connaître": "How can you protect and transfer your assets in Belgium? Solutions to know",
     "Découvrez les principales solutions permettant de protéger, organiser et transmettre son patrimoine en Belgique.": "Discover the main solutions for protecting, organising and transferring your assets in Belgium.",
-
     "Créer une entreprise en Belgique : pourquoi faire appel au notaire et quelles sont les étapes ?": "Starting a business in Belgium: why involve a notary and what are the steps?",
     "Découvrez les principales étapes de la création d’une entreprise en Belgique et le rôle du notaire dans la constitution de la société.": "Discover the main steps involved in setting up a business in Belgium and the role of the notary in incorporating the company.",
-
     "1. Avant l’achat : bien préparer son projet immobilier": "1. Before buying: properly prepare your property project",
     "Acheter un bien immobilier est une décision importante qui mérite d’être préparée avec attention. Avant de faire une offre, il est essentiel de définir son budget, en tenant compte non seulement du prix du bien, mais aussi des différents frais liés à l’acquisition. Il faut notamment prévoir les frais d’acte, les droits d’enregistrement ou la TVA selon le type de bien, ainsi que les éventuels frais liés au financement. Une estimation claire de sa capacité financière permet d’éviter les mauvaises surprises et de rechercher un bien adapté à sa situation.\n\nIl est également recommandé de vérifier attentivement les caractéristiques du bien avant de s’engager. Sa situation urbanistique, son état, les éventuelles servitudes, les charges de copropriété ou encore certains documents administratifs peuvent avoir une influence importante sur l’achat. Le notaire peut accompagner l’acquéreur dans ces vérifications et l’aider à comprendre les aspects juridiques de la transaction.": "Buying property is an important decision that requires careful preparation. Before making an offer, it is essential to define your budget, taking into account not only the property price but also the various costs associated with the purchase. These include deed costs, registration duties or VAT depending on the type of property, as well as any financing-related costs. A clear assessment of your financial capacity helps avoid unpleasant surprises and allows you to look for a property suited to your circumstances.\n\nIt is also advisable to carefully check the characteristics of the property before committing. Its planning status, condition, any easements, co-ownership charges and certain administrative documents may have a significant impact on the purchase. The notary can assist the buyer with these checks and help explain the legal aspects of the transaction.",
-
     "2. L’offre et le compromis de vente : des engagements à prendre au sérieux": "2. The offer and sale agreement: commitments to be taken seriously",
     "Une fois le bien trouvé, l’acheteur peut être amené à formuler une offre. Cette étape ne doit pas être prise à la légère : selon son contenu et les circonstances, une offre peut engager juridiquement son auteur. Il est donc préférable de s’assurer que les principales conditions de l’achat sont clairement définies avant de la signer. Lorsque l’offre est acceptée, les parties peuvent ensuite conclure un compromis de vente, qui fixe les conditions de la transaction.\n\nLe compromis constitue une étape essentielle puisqu’il formalise l’accord entre le vendeur et l’acheteur. Il précise notamment le prix, les conditions de la vente et les éventuelles conditions suspensives, comme l’obtention d’un crédit hypothécaire. Le notaire intervient ensuite pour effectuer les différentes vérifications nécessaires et préparer l’acte authentique. Même si le compromis est parfois appelé « compromis de vente », il ne s’agit pas d’un simple document provisoire : il constitue un engagement important pour les deux parties.": "Once the property has been found, the buyer may make an offer. This step should not be taken lightly: depending on its content and the circumstances, an offer may legally bind its author. It is therefore preferable to ensure that the main conditions of the purchase are clearly defined before signing it. Once the offer has been accepted, the parties may then enter into a sale agreement setting out the terms of the transaction.\n\nThe sale agreement is an essential step because it formalises the agreement between the seller and the buyer. It specifies, in particular, the price, the conditions of sale and any suspensive conditions, such as obtaining a mortgage loan. The notary then carries out the necessary checks and prepares the authentic deed. Although the agreement is sometimes referred to as a provisional sale agreement, it is not simply a temporary document: it represents an important commitment for both parties.",
-
     "3. L’acte authentique : finaliser officiellement l’achat": "3. The authentic deed: officially finalising the purchase",
     "Après la signature du compromis, plusieurs démarches sont réalisées avant la signature de l’acte authentique. Le notaire effectue les recherches et contrôles nécessaires afin de vérifier la situation juridique et administrative du bien et de préparer la vente dans les meilleures conditions. Cette période permet également de réunir les documents nécessaires et, lorsque l’achat est financé par un emprunt, de coordonner la signature de l’acte de crédit hypothécaire avec celle de l’acte de vente.\n\nLa signature de l’acte authentique marque la finalisation de la transaction. Le solde du prix est alors payé et la propriété est officiellement transférée à l’acquéreur, sous réserve des modalités prévues dans l’acte. Le notaire assure également les formalités nécessaires après la signature. Pour l’acquéreur, être accompagné dès les premières étapes permet donc de mieux comprendre ses engagements, d’anticiper les frais et de sécuriser son projet immobilier.": "After the sale agreement has been signed, several procedures are carried out before the authentic deed is signed. The notary conducts the necessary searches and checks to verify the legal and administrative status of the property and prepare the sale under the best possible conditions. This period also makes it possible to gather the required documents and, when the purchase is financed through a loan, coordinate the signing of the mortgage deed with the sale deed.\n\nThe signing of the authentic deed marks the completion of the transaction. The balance of the purchase price is paid and ownership is officially transferred to the buyer, subject to the terms set out in the deed. The notary also carries out the necessary formalities after signing. For the buyer, receiving support from the earliest stages therefore makes it possible to better understand their commitments, anticipate costs and secure their property project.",
-
     "1. Le prix du bien ne représente pas le coût total de l’achat": "1. The property price does not represent the total cost of the purchase",
     "Lorsqu’on prépare l’achat d’un logement en Belgique, il est important de ne pas se limiter au prix affiché par le vendeur. À ce montant s’ajoutent plusieurs frais liés à la transaction, dont certains sont incontournables. Le montant à prévoir dépend notamment de la Région dans laquelle se situe le bien, de sa nature et de la situation de l’acquéreur. Anticiper ces coûts permet de déterminer plus précisément son budget et d’éviter de mauvaises surprises au moment de la signature.\n\nParmi les principaux frais figurent notamment les droits d’enregistrement ou, dans certaines situations, la TVA. Le régime applicable peut varier selon qu’il s’agit d’un logement existant ou d’une construction neuve, ainsi que selon les conditions propres à l’acquéreur. Il est donc important de vérifier dès le début du projet quel régime fiscal s’applique à l’achat envisagé.": "When preparing to buy a home in Belgium, it is important not to focus solely on the price advertised by the seller. Several transaction-related costs must be added to this amount, some of which are unavoidable. The amount to budget for depends in particular on the Region where the property is located, its nature and the buyer’s circumstances. Anticipating these costs makes it possible to determine the budget more accurately and avoid unpleasant surprises at the time of signing.\n\nThe main costs include registration duties or, in certain circumstances, VAT. The applicable tax regime may vary depending on whether the property is an existing home or a new build, as well as on the buyer’s specific circumstances. It is therefore important to establish from the beginning of the project which tax regime applies to the intended purchase.",
-
     "2. Les frais liés à l’acte notarié et au financement": "2. Costs related to the notarial deed and financing",
     "L’acquisition d’un bien immobilier implique également des frais liés à l’intervention du notaire. Ceux-ci comprennent notamment les honoraires du notaire, ainsi que différents frais administratifs et débours nécessaires à la réalisation de l’acte. Le notaire joue un rôle essentiel dans la sécurisation juridique de la transaction et dans l’accomplissement des formalités nécessaires au transfert de propriété.\n\nLorsque l’achat est financé par un crédit hypothécaire, il faut également tenir compte des frais liés à l’acte de crédit. Selon la situation, cela peut comprendre notamment certains droits, honoraires et frais administratifs. Ces dépenses viennent s’ajouter au coût du financement et doivent donc être intégrées dans le calcul global du budget avant de s’engager.": "The purchase of a property also involves costs related to the notary’s involvement. These include the notary’s fees, as well as various administrative costs and disbursements required to complete the deed. The notary plays an essential role in legally securing the transaction and completing the formalities required to transfer ownership.\n\nWhen the purchase is financed through a mortgage loan, the costs associated with the loan deed must also be taken into account. Depending on the circumstances, these may include certain duties, fees and administrative costs. These expenses are added to the cost of financing and should therefore be included in the overall budget calculation before making a commitment.",
-
     "3. Comment bien anticiper son budget d’achat ?": "3. How can you properly plan your purchase budget?",
     "Avant de signer une offre ou un compromis, il est conseillé d’établir une estimation complète du coût de l’opération. Le prix du bien, les taxes, les frais d’acte, les éventuels frais liés au crédit ainsi que les dépenses nécessaires après l’acquisition doivent être pris en compte. Une vision globale permet de déterminer le montant réellement nécessaire et d’adapter, si besoin, son projet immobilier.\n\nLe notaire peut accompagner l’acquéreur dans cette préparation en lui permettant de mieux comprendre les frais liés à son projet et les démarches à accomplir. Chaque situation étant différente, une estimation personnalisée reste préférable à une simple règle générale. Bien préparer son budget en amont permet ainsi d’aborder l’achat immobilier avec davantage de sérénité et de prendre une décision en toute connaissance de cause.": "Before signing an offer or sale agreement, it is advisable to prepare a complete estimate of the overall cost of the transaction. The property price, taxes, deed costs, any credit-related expenses and the costs required after the purchase should all be taken into account. A comprehensive view makes it possible to determine the actual amount required and, if necessary, adapt the property project.\n\nThe notary can assist the buyer with this preparation by helping them understand the costs associated with their project and the procedures to be completed. Since every situation is different, a personalised estimate is preferable to a simple general rule. Properly preparing the budget in advance therefore makes it possible to approach a property purchase with greater peace of mind and make an informed decision.",
-
     "1. Préparer la vente et réunir les documents nécessaires": "1. Preparing the sale and gathering the necessary documents",
     "La vente d’un bien immobilier ne commence pas le jour de la signature chez le notaire. Plusieurs démarches doivent être réalisées en amont afin de vérifier que le bien peut être vendu dans de bonnes conditions. Le vendeur doit notamment réunir différents documents concernant le logement, sa situation administrative, énergétique et, lorsqu’il s’agit d’un appartement, la copropriété. Ces informations permettent au futur acquéreur de disposer d’une vision claire du bien avant de s’engager.\n\nLe notaire accompagne le vendeur dans cette préparation et effectue les recherches juridiques nécessaires. Il vérifie notamment la situation de propriété du bien, les éventuelles hypothèques, servitudes ou autres éléments susceptibles d’avoir une incidence sur la vente. Cette étape permet d’identifier suffisamment tôt les éventuelles difficultés et de préparer une transaction sécurisée.": "The sale of a property does not begin on the day the deed is signed at the notary’s office. Several procedures must be completed beforehand to ensure that the property can be sold under the proper conditions. The seller must gather various documents concerning the property, its administrative and energy status and, in the case of an apartment, the co-ownership. This information gives the future buyer a clear understanding of the property before making a commitment.\n\nThe notary assists the seller with this preparation and carries out the necessary legal searches. In particular, the notary checks ownership of the property, any mortgages, easements or other matters that could affect the sale. This step makes it possible to identify potential difficulties early enough and prepare a secure transaction.",
-
     "2. De l’offre au compromis de vente": "2. From the offer to the sale agreement",
     "Une fois l’acquéreur trouvé, celui-ci peut formuler une offre d’achat. Cette étape doit être prise au sérieux, car une offre peut avoir des conséquences juridiques selon ses conditions et son acceptation. Il est donc préférable de faire vérifier son contenu avant de s’engager, notamment lorsque certaines conditions particulières doivent être prévues.\n\nLorsque les parties sont d’accord, elles peuvent signer un compromis de vente. Ce document précise les principales conditions de la transaction : identité des parties, description du bien, prix, modalités de paiement et éventuelles conditions suspensives. Le compromis constitue un engagement important pour le vendeur comme pour l’acheteur. Le notaire poursuit ensuite les différentes vérifications nécessaires à la préparation de l’acte authentique.": "Once a buyer has been found, they may make an offer to purchase. This step must be taken seriously, as an offer may have legal consequences depending on its terms and acceptance. It is therefore preferable to have its contents checked before making a commitment, particularly when specific conditions need to be included.\n\nWhen the parties agree, they may sign a sale agreement. This document sets out the main conditions of the transaction: the identity of the parties, description of the property, price, payment terms and any suspensive conditions. The agreement represents an important commitment for both the seller and the buyer. The notary then continues the necessary checks in preparation for the authentic deed.",
-
     "3. La signature de l’acte authentique et le transfert de propriété": "3. Signing the authentic deed and transferring ownership",
     "Après le compromis, le notaire accomplit les formalités nécessaires avant la signature définitive. Il vérifie notamment les informations relatives au bien et s’assure que les conditions nécessaires à la vente sont réunies. Cette période permet également de préparer les documents définitifs et de régler les différents aspects administratifs et financiers de la transaction.\n\nLa vente est officiellement finalisée lors de la signature de l’acte authentique. Le prix est payé selon les modalités prévues et la propriété est transférée à l’acquéreur conformément à l’acte. Le notaire effectue ensuite les formalités nécessaires pour assurer l’opposabilité de la vente. Pour le vendeur, son accompagnement permet donc de sécuriser chaque étape, depuis la préparation du dossier jusqu’à la finalisation de la transaction.": "After the sale agreement, the notary completes the necessary formalities before the final signing. The notary checks the information relating to the property and ensures that the conditions required for the sale have been met. This period also allows the final documents to be prepared and the various administrative and financial aspects of the transaction to be settled.\n\nThe sale is officially completed when the authentic deed is signed. The price is paid according to the agreed terms and ownership is transferred to the buyer in accordance with the deed. The notary then completes the necessary formalities to ensure that the sale is enforceable against third parties. For the seller, this support helps secure every stage, from preparing the file to completing the transaction.",
-
     "1. Comprendre ce qui se passe au moment du décès": "1. Understanding what happens at the time of death",
     "Lorsqu’un proche décède, sa succession s’ouvre automatiquement. Son patrimoine, comprenant notamment ses biens, ses comptes, ses placements et éventuellement ses dettes, doit alors être identifié afin de déterminer ce qui revient aux héritiers. La première étape consiste à établir qui sont les personnes appelées à la succession et à vérifier s’il existe un testament ou d’autres dispositions prises par le défunt.\n\nLes héritiers ne sont toutefois pas toujours obligés d’accepter la succession sans réserve. Selon leur situation, ils peuvent notamment accepter la succession, l’accepter sous bénéfice d’inventaire ou y renoncer. Ce choix mérite d’être réfléchi, particulièrement lorsque le défunt pouvait avoir des dettes. Le notaire peut accompagner les héritiers dans cette démarche et les aider à comprendre les conséquences de chaque option.": "When a loved one dies, their estate is automatically opened. Their assets, including property, bank accounts, investments and potentially debts, must then be identified to determine what passes to the heirs. The first step is to establish who is entitled to inherit and to check whether the deceased left a will or other arrangements.\n\nHeirs are not always required to accept the estate unconditionally. Depending on their circumstances, they may accept the inheritance, accept it under the benefit of inventory or renounce it. This decision deserves careful consideration, particularly when the deceased may have had debts. The notary can assist heirs throughout this process and help them understand the consequences of each option.",
-
     "2. Identifier les biens, les dettes et les droits des héritiers": "2. Identifying assets, debts and the heirs’ rights",
     "Une succession peut comprendre des éléments très différents : maison ou appartement, comptes bancaires, véhicules, investissements, parts d’entreprise ou encore objets de valeur. Elle peut également comporter des emprunts ou d’autres dettes. Il est donc nécessaire d’établir une situation complète du patrimoine du défunt avant de procéder au partage entre les héritiers.\n\nLe notaire intervient notamment pour vérifier la situation juridique des biens, rechercher certains éléments du patrimoine et déterminer les droits de chaque héritier. Lorsqu’il existe plusieurs héritiers, il peut également accompagner les parties dans l’organisation du partage. L’objectif est de permettre une transmission aussi claire et sécurisée que possible, tout en tenant compte des dispositions légales et des éventuelles volontés exprimées par le défunt.": "An estate can include many different assets: a house or apartment, bank accounts, vehicles, investments, company shares or valuable possessions. It may also include loans or other debts. It is therefore necessary to establish a complete picture of the deceased’s assets and liabilities before distributing the estate among the heirs.\n\nThe notary may verify the legal status of assets, search for elements of the estate and determine each heir’s rights. When there are several heirs, the notary can also assist the parties in organising the distribution. The objective is to ensure that the transfer is as clear and secure as possible while taking into account legal provisions and any wishes expressed by the deceased.",
-
     "3. Le règlement de la succession et les droits de succession": "3. Settling the estate and inheritance taxes",
     "Le règlement d’une succession implique également des obligations fiscales. Selon la Région compétente et la situation des héritiers, des droits de succession peuvent être dus sur le patrimoine transmis. Leur montant dépend notamment de la valeur des biens reçus et du lien de parenté entre le défunt et les héritiers. Il est donc important d’anticiper ces aspects afin de connaître les conséquences financières de la succession.\n\nLe notaire peut accompagner les héritiers dans les différentes formalités liées au règlement de la succession, notamment dans la préparation des documents nécessaires et dans les démarches fiscales. Chaque succession étant différente, une analyse personnalisée est essentielle. Faire appel à un notaire permet ainsi aux héritiers d’être accompagnés dans une période souvent difficile et de régler la succession dans un cadre juridique sécurisé.": "Settling an estate also involves tax obligations. Depending on the relevant Region and the heirs’ circumstances, inheritance tax may be due on the assets transferred. The amount depends in particular on the value of the assets received and the family relationship between the deceased and the heirs. It is therefore important to anticipate these aspects in order to understand the financial consequences of the inheritance.\n\nThe notary can assist heirs with the various formalities involved in settling the estate, including preparing the necessary documents and handling tax procedures. Since every estate is different, a personalised analysis is essential. Consulting a notary allows heirs to receive support during what is often a difficult period and settle the estate within a secure legal framework.",
-
     "1. Anticiper pour mieux protéger son patrimoine": "1. Planning ahead to better protect your assets",
     "La constitution d’un patrimoine est souvent le résultat de nombreuses années de travail, d’épargne et d’investissements. Pourtant, la question de sa protection et de sa transmission est parfois repoussée à plus tard. Anticiper permet pourtant de mieux organiser ses biens et de tenir compte de sa situation familiale, professionnelle et financière. Une bonne planification patrimoniale permet notamment de réfléchir à ce que l’on souhaite transmettre, aux personnes que l’on souhaite protéger et aux conditions dans lesquelles cette transmission doit s’effectuer.\n\nLa situation de chaque personne étant différente, il n’existe pas une solution unique pour protéger son patrimoine. Le régime matrimonial, la composition de la famille, la nature des biens détenus ou encore l’existence d’une entreprise peuvent avoir une influence importante sur les choix à envisager. Un accompagnement notarial permet d’analyser ces différents éléments et de construire une organisation adaptée aux objectifs de chacun.": "Building wealth is often the result of many years of work, saving and investment. Yet the question of protecting and transferring that wealth is sometimes postponed. Planning ahead makes it possible to organise assets more effectively while taking family, professional and financial circumstances into account. Good estate planning allows you to consider what you wish to transfer, whom you wish to protect and the conditions under which the transfer should take place.\n\nSince everyone’s circumstances are different, there is no single solution for protecting assets. The matrimonial regime, family composition, nature of the assets held and existence of a business can all have a significant influence on the choices to be considered. Notarial assistance makes it possible to analyse these different factors and establish an arrangement suited to each person’s objectives.",
-
     "2. Donation, testament et autres outils de transmission": "2. Gifts, wills and other estate-planning tools",
     "Plusieurs mécanismes peuvent être utilisés pour organiser la transmission d’un patrimoine. La donation peut, dans certaines situations, permettre de transmettre une partie de ses biens de son vivant, tout en définissant certaines conditions. Le testament permet quant à lui d’exprimer ses dernières volontés et d’organiser la transmission de ses biens dans le respect des règles successorales applicables.\n\nD’autres outils peuvent également jouer un rôle dans une stratégie patrimoniale, notamment le contrat de mariage ou certaines dispositions relatives à la propriété des biens. Le choix d’un mécanisme dépend toujours de la situation personnelle et des objectifs poursuivis. Il est donc important de ne pas se limiter à une solution prise isolément, mais de considérer l’ensemble du patrimoine et les conséquences juridiques et fiscales des décisions envisagées.": "Several mechanisms can be used to organise the transfer of assets. In certain circumstances, a gift can allow part of your assets to be transferred during your lifetime while establishing specific conditions. A will allows you to express your final wishes and organise the transfer of your assets in accordance with the applicable succession rules.\n\nOther tools can also play a role in an estate-planning strategy, including a marriage contract or certain arrangements concerning ownership of assets. The choice of mechanism always depends on the individual’s circumstances and objectives. It is therefore important not to consider one solution in isolation, but rather the estate as a whole and the legal and tax consequences of the decisions being considered.",
-
     "3. Préparer la transmission de son patrimoine avec un notaire": "3. Preparing the transfer of your assets with a notary",
     "Une planification patrimoniale efficace ne consiste pas uniquement à transmettre des biens. Elle vise également à préserver les intérêts de la personne qui transmet et à anticiper les éventuelles difficultés entre héritiers. Préparer sa succession à l’avance peut notamment permettre de clarifier ses volontés, de faciliter les démarches futures et, dans certaines situations, d’anticiper les conséquences fiscales de la transmission.\n\nLe notaire peut accompagner cette réflexion à différentes étapes de la vie et adapter les solutions lorsque la situation évolue. Mariage, naissance d’un enfant, acquisition d’un bien, création d’une entreprise ou changement de situation familiale peuvent être autant d’occasions de revoir son organisation patrimoniale. Anticiper sa transmission, c’est donc avant tout prendre le temps de réfléchir à l’avenir et de mettre en place un cadre adapté à ses volontés.": "Effective estate planning is not only about transferring assets. It also aims to protect the interests of the person transferring the assets and anticipate potential difficulties between heirs. Preparing your estate in advance can help clarify your wishes, facilitate future procedures and, in certain situations, anticipate the tax consequences of the transfer.\n\nA notary can assist with this planning at different stages of life and adapt solutions as circumstances change. Marriage, the birth of a child, the purchase of property, starting a business or a change in family circumstances can all be opportunities to review your estate planning. Planning your succession therefore means taking the time to consider the future and putting in place a framework that reflects your wishes.",
-
     "1. Choisir la forme juridique adaptée à son projet": "1. Choosing the legal structure suited to your project",
     "Créer une entreprise est une étape importante qui nécessite de faire plusieurs choix avant de commencer son activité. Parmi les premières décisions figure le choix de la forme juridique. En Belgique, la société à responsabilité limitée (SRL) est notamment utilisée par de nombreux entrepreneurs, mais d’autres formes de sociétés peuvent être envisagées selon le projet, le nombre d’associés et les objectifs poursuivis.\n\nCe choix ne doit pas être fait uniquement en fonction de la simplicité de création. Il peut avoir des conséquences sur la responsabilité des associés, l’organisation de la société, le financement du projet et sa gouvernance. Le notaire peut accompagner les futurs associés dans cette réflexion et les aider à mettre en place une structure cohérente avec leur projet entrepreneurial.": "Starting a business is an important step that requires several decisions before beginning operations. One of the first decisions concerns the choice of legal structure. In Belgium, the private limited company (SRL) is used by many entrepreneurs, but other types of companies may be considered depending on the project, the number of shareholders and the objectives pursued.\n\nThis choice should not be based solely on how easy the company is to establish. It can affect the liability of shareholders, the organisation of the company, project financing and governance. The notary can assist future shareholders in this process and help them establish a structure consistent with their business project.",
-
     "2. Préparer les statuts et constituer la société": "2. Preparing the articles of association and incorporating the company",
     "Une fois la forme juridique choisie, plusieurs démarches sont nécessaires pour constituer la société. Les futurs associés doivent notamment définir les règles qui organiseront son fonctionnement : répartition des parts, pouvoirs des dirigeants, prise de décisions, droits des associés et modalités de fonctionnement de la société. Ces éléments sont notamment repris dans les statuts.\n\nDans les cas où l’intervention d’un notaire est requise, celui-ci établit l’acte constitutif et veille au respect des formalités légales. Il peut également attirer l’attention des fondateurs sur certains choix importants à effectuer avant la constitution. Cette étape est essentielle, car les statuts constituent le cadre juridique dans lequel la société évoluera.": "Once the legal structure has been chosen, several procedures are required to incorporate the company. The future shareholders must define the rules governing its operation, including the distribution of shares, powers of directors, decision-making, shareholders’ rights and operating procedures. These elements are set out in the articles of association.\n\nWhere a notary’s involvement is required, the notary prepares the incorporation deed and ensures compliance with legal formalities. The notary can also draw the founders’ attention to important decisions that need to be made before incorporation. This stage is essential because the articles of association establish the legal framework in which the company will operate.",
-
     "3. Après la constitution : donner vie à l’entreprise": "3. After incorporation: getting the business up and running",
     "La signature de l’acte de constitution ne constitue pas la fin du processus. Après la création de la société, plusieurs formalités doivent encore être accomplies pour permettre à l’entreprise de démarrer son activité dans de bonnes conditions. Selon le projet, cela peut notamment concerner l’inscription à la Banque-Carrefour des Entreprises, l’activation de la TVA, l’ouverture d’un compte bancaire professionnel ou encore certaines démarches liées à l’activité exercée.\n\nLe rôle du notaire ne se limite cependant pas à la création de la société. Il peut également accompagner l’entrepreneur lors d’étapes importantes de la vie de l’entreprise : modification des statuts, entrée ou sortie d’un associé, réorganisation, transmission ou dissolution. Pour un entrepreneur, bénéficier d’un accompagnement juridique dès le départ permet ainsi de construire une entreprise sur des bases solides et d’anticiper les évolutions futures.": "Signing the incorporation deed does not mark the end of the process. After the company has been established, several formalities still need to be completed to allow the business to start operating under the right conditions. Depending on the project, these may include registration with the Crossroads Bank for Enterprises, VAT activation, opening a professional bank account or other procedures related to the business activity.\n\nThe notary’s role is not limited to incorporating the company. The notary can also assist entrepreneurs during important stages in the company’s life: amendments to the articles of association, the entry or exit of a shareholder, restructuring, transfer or dissolution. For an entrepreneur, obtaining legal support from the outset helps build a company on solid foundations and anticipate future developments.",
 
 
 
-    "Le Cabinet Dutrieux, étude notariale établie en Belgique, accorde une importance particulière à la protection de vos données à caractère personnel et au respect de votre vie privée.": "Cabinet Dutrieux, a notarial office established in Belgium, places particular importance on the protection of your personal data and respect for your privacy.",
-
-    "La présente politique de confidentialité a pour objectif de vous informer de manière claire et transparente sur la manière dont vos données à caractère personnel sont collectées, utilisées, conservées et protégées lorsque vous utilisez le site internet du Cabinet Dutrieux ou lorsque vous entrez en relation avec l'étude dans le cadre de ses activités notariales.": "This Privacy Policy is intended to provide you with clear and transparent information about how your personal data is collected, used, stored and protected when you use the Cabinet Dutrieux website or when you interact with the office in connection with its notarial activities.",
-
-    "Le Cabinet Dutrieux traite vos données conformément au": "Cabinet Dutrieux processes your data in accordance with the",
-
-    "Règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des données à caractère personnel (« RGPD »)": "Regulation (EU) 2016/679 of 27 April 2016 on the protection of personal data (\"GDPR\")",
-
-    "aux dispositions légales belges applicables ainsi qu'aux règles et obligations propres à la profession notariale en matière de confidentialité, de secret professionnel et de protection des données.": "the applicable Belgian legal provisions, as well as the rules and obligations applicable to the notarial profession regarding confidentiality, professional secrecy and data protection.",
-
+    "Politique de confidentialité": "Privacy Policy",
+    "CABINET DUTRIEUX SRL": "CABINET DUTRIEUX SRL",
+    "Politique de confidentialité et de protection des données": "Privacy and Data Protection Policy",
+    "Le Cabinet Dutrieux SRL, étude notariale établie en Belgique, accorde une importance particulière à la protection de vos données à caractère personnel et au respect de votre vie privée.": "Cabinet Dutrieux SRL, a notarial office established in Belgium, places particular importance on the protection of your personal data and respect for your privacy.",
+    "La présente politique de confidentialité a pour objectif de vous informer de manière claire et transparente sur la manière dont vos données à caractère personnel sont collectées, utilisées, conservées et protégées lorsque vous utilisez le site internet du Cabinet Dutrieux ou lorsque vous entrez en relation avec l'étude dans le cadre de ses activités notariales.": "This privacy policy aims to inform you clearly and transparently about how your personal data is collected, used, stored and protected when you use the Cabinet Dutrieux website or interact with the office as part of its notarial activities.",
+    "Le Cabinet Dutrieux traite vos données conformément au Règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des données à caractère personnel (« RGPD »), aux dispositions légales belges applicables ainsi qu'aux règles et obligations propres à la profession notariale en matière de confidentialité, de secret professionnel et de protection des données.": "Cabinet Dutrieux processes your data in accordance with Regulation (EU) 2016/679 of 27 April 2016 on the protection of personal data (GDPR), applicable Belgian legislation, and the rules and professional obligations applicable to notaries regarding confidentiality, professional secrecy and data protection.",
     "1. Responsable du traitement": "1. Data Controller",
     "Le responsable du traitement de vos données à caractère personnel est :": "The controller of your personal data is:",
-    "Étude notariale": "Notarial office",
-
-    "Numéro d'entreprise :": "Company number:",
-    "Téléphone :": "Telephone:",
-    "E-mail :": "Email:",
-    "E-mail relatif à la protection des données :": "Data protection email:",
-
-    "Le Cabinet Dutrieux détermine les finalités et les moyens des traitements de données à caractère personnel réalisés dans le cadre de son activité.": "Cabinet Dutrieux determines the purposes and means of processing personal data carried out as part of its activities.",
-
-    "Lorsque la réglementation applicable l'exige, le Cabinet Dutrieux fait appel à un délégué à la protection des données (DPO). Les coordonnées de celui-ci seront indiquées dans la présente politique lorsqu'elles sont applicables.": "Where required by applicable regulations, Cabinet Dutrieux appoints a Data Protection Officer (DPO). The contact details of the DPO will be provided in this policy where applicable.",
-
+    "Cabinet Dutrieux SRL — Étude notariale de Maître Charles Yves Dutrieux": "Cabinet Dutrieux SRL — Notarial Office of Maître Charles Yves Dutrieux",
+    "Rue du Mail 1050 IXELLES CEDEX 4, Belgique": "Rue du Mail 1050 IXELLES CEDEX 4, Belgium",
+    "Numéro d'entreprise (BCE) :": "Company registration number (BCE):",
+    "BE 0798.456.321": "BE 0798.456.321",
+    "Téléphone :": "Phone:",
+    "+32 465 502 801": "+32 465 502 801",
+    "E-mail général :": "General e-mail:",
+    "E-mail relatif à la protection des données :": "Data protection e-mail:",
+    "Le Cabinet Dutrieux détermine les finalités et les moyens des traitements de données à caractère personnel réalisés dans le cadre de son activité.": "Cabinet Dutrieux determines the purposes and means of the processing of personal data carried out as part of its activities.",
+    "1.1. Délégué à la protection des données (DPO)": "1.1. Data Protection Officer (DPO)",
+    "Sophie Lambert": "Sophie Lambert",
+    "Contact :": "Contact:",
     "2. Quelles données personnelles pouvons-nous traiter ?": "2. What personal data may we process?",
-
     "Selon la nature de votre relation avec le Cabinet Dutrieux, différentes catégories de données peuvent être traitées.": "Depending on the nature of your relationship with Cabinet Dutrieux, different categories of data may be processed.",
-
     "2.1. Données communiquées via le site internet": "2.1. Data provided through the website",
-
-    "Lorsque vous utilisez le formulaire de contact, le formulaire de demande de rendez-vous ou tout autre formulaire disponible sur le site, nous pouvons notamment traiter :": "When you use the contact form, appointment request form or any other form available on the website, we may process, in particular:",
-
-    "nom et prénom ;": "first and last name;",
-    "adresse e-mail ;": "email address;",
-    "numéro de téléphone ;": "telephone number;",
-    "objet de votre demande ;": "subject of your request;",
-    "contenu du message ;": "content of your message;",
-    "informations relatives à votre demande de rendez-vous ;": "information relating to your appointment request;",
-    "date et heure souhaitées pour un rendez-vous ;": "preferred date and time for an appointment;",
-    "toute autre information que vous choisissez volontairement de nous communiquer.": "any other information that you voluntarily choose to provide to us.",
-
-    "Nous vous invitons à ne communiquer, via les formulaires du site, que les informations nécessaires au traitement de votre demande.": "We encourage you to provide, through the website forms, only the information necessary to process your request.",
-
-    "2.2. Données traitées dans le cadre d'un dossier notarial": "2.2. Data processed in connection with a notarial matter",
-
+    "Lorsque vous utilisez le formulaire de contact, le formulaire de demande de rendez-vous ou tout autre formulaire disponible sur le site, nous pouvons notamment traiter :": "When you use the contact form, appointment request form or any other form available on the website, we may process in particular:",
+    "nom et prénom": "first and last name",
+    "adresse e-mail": "e-mail address",
+    "numéro de téléphone": "telephone number",
+    "objet de votre demande": "subject of your request",
+    "contenu du message": "message content",
+    "informations relatives à votre demande de rendez-vous": "information relating to your appointment request",
+    "date et heure souhaitées pour un rendez-vous": "preferred date and time for an appointment",
+    "toute autre information que vous choisissez volontairement de nous communiquer": "any other information you voluntarily choose to provide",
+    "Nous vous invitons à ne communiquer, via les formulaires du site, que les informations nécessaires au traitement de votre demande.": "We ask you to provide only the information necessary to process your request through the website forms.",
+    "2.2. Données traitées dans le cadre d'un dossier notarial": "2.2. Data processed as part of a notarial matter",
     "Dans le cadre de l'exercice de ses missions, le Cabinet Dutrieux peut être amené à traiter des catégories plus larges de données, notamment :": "In carrying out its duties, Cabinet Dutrieux may process broader categories of data, including:",
-
-    "données d'identification ;": "identification data;",
-    "coordonnées ;": "contact details;",
-    "données relatives à l'état civil ;": "civil status data;",
-    "données relatives à la situation familiale ;": "family situation data;",
-    "données relatives à la capacité juridique des personnes ;": "data relating to the legal capacity of individuals;",
-    "données patrimoniales ;": "asset and wealth-related data;",
-    "données immobilières ;": "real estate data;",
-    "données financières et fiscales ;": "financial and tax data;",
-    "données professionnelles ;": "professional data;",
-    "données relatives aux sociétés et à leurs représentants ;": "data relating to companies and their representatives;",
-    "données relatives aux testaments, successions et donations ;": "data relating to wills, estates and gifts;",
-    "données contenues dans les actes et documents notariés ;": "data contained in notarial deeds and documents;",
-    "toute autre donnée nécessaire à l'accomplissement d'une mission notariale.": "any other data necessary for the performance of a notarial matter.",
-
-    "Certaines de ces données peuvent présenter un caractère particulièrement confidentiel. Leur traitement est soumis aux obligations professionnelles applicables aux notaires, notamment au secret professionnel et au devoir de discrétion.": "Some of this data may be particularly confidential in nature. Its processing is subject to the professional obligations applicable to notaries, including professional secrecy and the duty of confidentiality.",
-
+    "données d'identification": "identification data",
+    "coordonnées": "contact details",
+    "données relatives à l'état civil": "civil status data",
+    "données relatives à la situation familiale": "family situation data",
+    "données relatives à la capacité juridique des personnes": "data relating to the legal capacity of individuals",
+    "données patrimoniales, immobilières, financières et fiscales": "asset, property, financial and tax data",
+    "données professionnelles": "professional data",
+    "données relatives aux sociétés et à leurs représentants": "data relating to companies and their representatives",
+    "données relatives aux testaments, successions et donations": "data relating to wills, estates and gifts",
+    "données contenues dans les actes et documents notariés": "data contained in notarial deeds and documents",
+    "toute autre donnée nécessaire à l'accomplissement d'une mission notariale": "any other data necessary to carry out a notarial assignment",
+    "Certaines de ces données peuvent présenter un caractère particulièrement confidentiel. Leur traitement est soumis aux obligations professionnelles applicables aux notaires, notamment au secret professionnel et au devoir de discrétion.": "Some of this data may be particularly confidential. Its processing is subject to the professional obligations applicable to notaries, including professional secrecy and the duty of discretion.",
     "3. Dans quelles situations collectons-nous vos données ?": "3. In what situations do we collect your data?",
-
-    "Vos données peuvent notamment être collectées lorsque :": "Your data may be collected in particular when:",
-
-    "vous utilisez le formulaire de contact du site ;": "you use the website contact form;",
-    "vous demandez un rendez-vous ;": "you request an appointment;",
-    "vous correspondez avec l'étude par e-mail, téléphone ou courrier ;": "you communicate with the office by email, telephone or post;",
-    "vous confiez un dossier au Cabinet Dutrieux ;": "you entrust a matter to Cabinet Dutrieux;",
-    "vous participez à une opération ou à un acte notarié ;": "you participate in a transaction or notarial deed;",
-    "vous êtes partie ou intervenant dans un dossier traité par l'étude ;": "you are a party or an intervening party in a matter handled by the office;",
-    "vous nous fournissez volontairement des documents ou informations nécessaires au traitement de votre dossier ;": "you voluntarily provide us with documents or information necessary to process your matter;",
-    "nous devons obtenir certaines informations auprès de sources authentiques, d'administrations ou de professionnels habilités, conformément à la législation applicable.": "we need to obtain certain information from official sources, public authorities or authorised professionals, in accordance with applicable legislation.",
-
-    "Dans le cadre de ses missions notariales, le notaire peut être légalement autorisé ou tenu de recueillir certaines informations auprès de sources officielles et d'administrations.": "As part of their notarial duties, a notary may be legally authorised or required to obtain certain information from official sources and public authorities.",
-
+    "vous utilisez le formulaire de contact du site": "you use the website contact form",
+    "vous demandez un rendez-vous": "you request an appointment",
+    "vous correspondez avec l'étude par e-mail, téléphone ou courrier": "you communicate with the office by e-mail, telephone or post",
+    "vous confiez un dossier au Cabinet Dutrieux": "you entrust a matter to Cabinet Dutrieux",
+    "vous participez à une opération ou à un acte notarié": "you participate in a transaction or notarial deed",
+    "vous êtes partie ou intervenant dans un dossier traité par l'étude": "you are a party or participant in a matter handled by the office",
+    "vous nous fournissez volontairement des documents ou informations nécessaires au traitement de votre dossier": "you voluntarily provide documents or information necessary to process your matter",
+    "nous devons obtenir certaines informations auprès de sources authentiques, d'administrations ou de professionnels habilités, conformément à la législation applicable": "we must obtain certain information from authentic sources, public authorities or authorised professionals in accordance with applicable legislation",
     "4. Pourquoi utilisons-nous vos données ?": "4. Why do we use your data?",
-
-    "Vos données sont traitées uniquement pour des finalités déterminées, explicites et légitimes.": "Your data is processed only for specific, explicit and legitimate purposes.",
-
     "4.1. Répondre à vos demandes": "4.1. Responding to your requests",
-
-    "répondre à votre demande ;": "respond to your request;",
-    "vous recontacter ;": "contact you again;",
-    "vous fournir les informations demandées ;": "provide you with the requested information;",
-    "identifier le service ou le collaborateur compétent.": "identify the appropriate department or staff member.",
-
+    "répondre à votre demande": "respond to your request",
+    "vous recontacter": "contact you again",
+    "vous fournir les informations demandées": "provide you with the requested information",
+    "identifier le service ou le collaborateur compétent": "identify the appropriate department or staff member",
     "4.2. Gérer les rendez-vous": "4.2. Managing appointments",
-
-    "enregistrer votre demande ;": "record your request;",
-    "vérifier les disponibilités ;": "check availability;",
-    "organiser le rendez-vous ;": "arrange the appointment;",
-    "vous confirmer ou modifier celui-ci ;": "confirm or modify the appointment;",
-    "vous contacter en cas de changement ou de nécessité liée au rendez-vous.": "contact you in the event of a change or any matter relating to the appointment.",
-
+    "enregistrer votre demande": "record your request",
+    "vérifier les disponibilités": "check availability",
+    "organiser, confirmer ou modifier le rendez-vous": "arrange, confirm or modify the appointment",
+    "vous contacter en cas de changement ou de nécessité liée au rendez-vous": "contact you in the event of a change or necessity relating to the appointment",
     "4.3. Gérer les dossiers notariaux": "4.3. Managing notarial matters",
-
-    "analyser votre situation ;": "analyse your situation;",
-    "vous conseiller dans le cadre de la mission confiée ;": "advise you in connection with the matter entrusted to us;",
-    "préparer les documents nécessaires ;": "prepare the necessary documents;",
-    "rédiger et recevoir les actes notariés ;": "draft and execute notarial deeds;",
-    "accomplir les formalités légales et administratives ;": "complete legal and administrative formalities;",
-    "communiquer avec les parties, professionnels et autorités concernés ;": "communicate with the relevant parties, professionals and authorities;",
-    "assurer le suivi administratif, juridique et financier du dossier ;": "ensure the administrative, legal and financial follow-up of the matter;",
-    "respecter les obligations légales et réglementaires applicables au notariat.": "comply with the legal and regulatory obligations applicable to the notarial profession.",
-
+    "analyser votre situation et vous conseiller": "assess your situation and advise you",
+    "préparer les documents nécessaires": "prepare the necessary documents",
+    "rédiger et recevoir les actes notariés": "draft and execute notarial deeds",
+    "accomplir les formalités légales et administratives": "complete legal and administrative formalities",
+    "communiquer avec les parties, professionnels et autorités concernés": "communicate with the relevant parties, professionals and authorities",
+    "assurer le suivi administratif, juridique et financier du dossier": "provide administrative, legal and financial follow-up of the matter",
+    "respecter les obligations légales et réglementaires applicables au notariat": "comply with the legal and regulatory obligations applicable to notarial activities",
     "4.4. Respecter nos obligations légales": "4.4. Complying with our legal obligations",
-
-    "Certaines données doivent être traitées afin de respecter les obligations légales et réglementaires auxquelles le notaire est soumis.": "Certain data must be processed in order to comply with the legal and regulatory obligations to which the notary is subject.",
-
-    "Cela peut notamment concerner les obligations relatives à l'identification des parties, à la lutte contre le blanchiment de capitaux, aux obligations fiscales, aux formalités administratives et aux différentes obligations propres à l'activité notariale.": "This may include obligations relating to the identification of parties, the prevention of money laundering, tax obligations, administrative formalities and the various obligations specific to notarial activities.",
-
+    "Certaines données doivent être traitées afin de respecter les obligations légales et réglementaires auxquelles le notaire est soumis, notamment celles relatives à l'identification des parties, à la lutte contre le blanchiment de capitaux, aux obligations fiscales, aux formalités administratives et aux différentes obligations propres à l'activité notariale.": "Certain data must be processed to comply with the legal and regulatory obligations to which the notary is subject, including those relating to the identification of parties, anti-money laundering requirements, tax obligations, administrative formalities and the various obligations specific to notarial activities.",
     "5. Sur quelles bases légales traitons-nous vos données ?": "5. What legal bases do we rely on to process your data?",
-
-    "Selon le contexte, le traitement de vos données peut reposer sur différentes bases juridiques prévues par le RGPD.": "Depending on the circumstances, the processing of your data may be based on different legal grounds provided for by the GDPR.",
-
-    "l'exécution de mesures précontractuelles ou d'un contrat": "the performance of pre-contractual measures or a contract",
-
-    "lorsque vous nous contactez afin de préparer une prestation ou lorsque vous nous confiez une mission ;": "when you contact us to prepare a service or when you entrust us with a matter;",
-
+    "l'exécution de mesures précontractuelles ou d'un contrat": "performance of pre-contractual measures or a contract",
     "le respect d'une obligation légale": "compliance with a legal obligation",
-
-    "lorsque le traitement est imposé par la législation applicable ;": "when processing is required by applicable legislation;",
-
-    "l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique": "the performance of a task carried out in the public interest or in the exercise of official authority",
-
-    "lorsque cela est applicable aux missions notariales ;": "where applicable to notarial duties;",
-
-    "l'intérêt légitime": "legitimate interest",
-
-    "lorsque celui-ci constitue une base juridique appropriée et que vos droits et libertés ne prévalent pas ;": "where this constitutes an appropriate legal basis and your rights and freedoms do not override it;",
-
-    "votre consentement": "your consent",
-
-    "lorsque celui-ci est juridiquement requis.": "where legally required.",
-
-    "6. Les données sont-elles obligatoires ?": "6. Is the provision of data mandatory?",
-
-    "Certaines informations sont indispensables pour permettre au Cabinet Dutrieux de répondre à votre demande ou d'accomplir une mission notariale.": "Certain information is essential for Cabinet Dutrieux to respond to your request or perform a notarial matter.",
-
-    "Lorsque certaines données sont nécessaires à l'accomplissement d'une obligation légale ou à l'exécution d'une mission, leur absence peut empêcher l'étude :": "Where certain data is necessary to comply with a legal obligation or perform a matter, failure to provide it may prevent the office from:",
-
-    "de traiter votre demande ;": "processing your request;",
-    "de vous proposer un rendez-vous ;": "offering you an appointment;",
-    "d'ouvrir ou de traiter un dossier ;": "opening or processing a matter;",
-    "d'établir certains documents ou actes ;": "preparing certain documents or deeds;",
-    "d'accomplir les formalités nécessaires.": "completing the necessary formalities.",
-
-    "Lorsque vous utilisez un formulaire du site, seuls les champs nécessaires à son fonctionnement sont demandés comme obligatoires.": "When you use a website form, only the fields necessary for its operation are required.",
-
+    "l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique": "performance of a task carried out in the public interest or in the exercise of official authority",
+    "l'intérêt légitime, lorsque vos droits et libertés ne prévalent pas": "legitimate interests, where your rights and freedoms do not override them",
+    "votre consentement, lorsque celui-ci est juridiquement requis": "your consent, where legally required",
+    "6. Les données sont-elles obligatoires ?": "6. Is providing data mandatory?",
+    "Certaines informations sont indispensables pour permettre au Cabinet Dutrieux de répondre à votre demande ou d’accomplir une mission notariale. Leur absence peut empêcher l’étude de traiter votre demande, de vous proposer un rendez-vous, d’ouvrir ou de traiter un dossier, d’établir certains documents ou actes, ou d’accomplir les formalités nécessaires.": "Certain information is essential for Cabinet Dutrieux to respond to your request or carry out a notarial assignment. Failure to provide such information may prevent the office from processing your request, offering you an appointment, opening or handling a matter, preparing certain documents or deeds, or completing the necessary formalities.",
+    "Lorsque vous utilisez un formulaire du site, seuls les champs nécessaires à son fonctionnement sont demandés comme obligatoires.": "When you use a website form, only fields necessary for its operation are marked as mandatory.",
     "7. À qui vos données peuvent-elles être communiquées ?": "7. Who may your data be disclosed to?",
-
-    "Le Cabinet Dutrieux ne vend ni ne loue vos données personnelles.": "Cabinet Dutrieux does not sell or rent your personal data.",
-
-    "Selon la nature du dossier et uniquement lorsque cela est nécessaire ou légalement requis, certaines données peuvent être communiquées à des destinataires habilités, notamment :": "Depending on the nature of the matter and only where necessary or legally required, certain data may be disclosed to authorised recipients, including:",
-
-    "administrations publiques ;": "public authorities;",
-    "autorités judiciaires ou administratives ;": "judicial or administrative authorities;",
-    "services fiscaux ;": "tax authorities;",
-    "organismes ou institutions compétents dans le cadre des missions notariales ;": "competent organisations or institutions in connection with notarial duties;",
-    "autres notaires lorsque cela est nécessaire à l'accomplissement d'une opération ;": "other notaries where necessary to carry out a transaction;",
-    "banques et établissements financiers lorsque cela est nécessaire au dossier ;": "banks and financial institutions where necessary for the matter;",
-    "avocats, experts, comptables ou autres professionnels intervenant dans le dossier ;": "lawyers, experts, accountants or other professionals involved in the matter;",
-    "prestataires techniques agissant pour le compte de l'étude ;": "technical service providers acting on behalf of the office;",
-    "autres parties concernées par une opération notariale, dans les limites de ce qui est nécessaire et autorisé.": "other parties involved in a notarial transaction, within the limits of what is necessary and permitted.",
-
-    "Ces communications ne sont effectuées que lorsqu'elles sont nécessaires à l'accomplissement des missions du Cabinet Dutrieux, à l'exécution d'une obligation légale ou lorsque vous les avez autorisées lorsque cette autorisation est nécessaire.": "Such disclosures are made only where necessary for the performance of Cabinet Dutrieux's duties, compliance with a legal obligation, or where you have authorised them when such authorisation is required.",
-
-    "8. Recours à des prestataires et sous-traitants": "8. Use of service providers and processors",
-
-    "Le Cabinet Dutrieux peut faire appel à des prestataires externes pour certaines fonctions techniques ou administratives, par exemple :": "Cabinet Dutrieux may use external service providers for certain technical or administrative functions, such as:",
-
-    "hébergement du site internet ;": "website hosting;",
-    "gestion et sécurisation des systèmes informatiques ;": "management and security of IT systems;",
-    "messagerie électronique ;": "electronic mail services;",
-    "maintenance informatique ;": "IT maintenance;",
-    "outils de gestion des rendez-vous ;": "appointment management tools;",
-    "services nécessaires au fonctionnement du site.": "services necessary for the operation of the website.",
-
-    "Lorsque ces prestataires traitent des données personnelles pour le compte du Cabinet Dutrieux, ils sont sélectionnés avec une attention particulière portée à la sécurité et à la protection des données.": "Where these service providers process personal data on behalf of Cabinet Dutrieux, they are selected with particular attention to data security and protection.",
-
+    "Le Cabinet Dutrieux ne vend ni ne loue vos données personnelles. Selon la nature du dossier et uniquement lorsque cela est nécessaire ou légalement requis, certaines données peuvent être communiquées à :": "Cabinet Dutrieux does not sell or rent your personal data. Depending on the nature of the matter and only where necessary or legally required, certain data may be disclosed to:",
+    "administrations publiques": "public authorities",
+    "autorités judiciaires ou administratives": "judicial or administrative authorities",
+    "services fiscaux": "tax authorities",
+    "organismes ou institutions compétents dans le cadre des missions notariales": "organisations or institutions competent in relation to notarial duties",
+    "autres notaires lorsque cela est nécessaire à l'accomplissement d'une opération": "other notaries where necessary to carry out a transaction",
+    "banques et établissements financiers lorsque cela est nécessaire au dossier": "banks and financial institutions where necessary for the matter",
+    "avocats, experts, comptables ou autres professionnels intervenant dans le dossier": "lawyers, experts, accountants or other professionals involved in the matter",
+    "prestataires techniques agissant pour le compte de l'étude": "technical service providers acting on behalf of the office",
+    "autres parties concernées par une opération notariale, dans les limites de ce qui est nécessaire et autorisé": "other parties involved in a notarial transaction, within the limits necessary and permitted",
+    "8. Recours à des prestataires et sous-traitants": "8. Service providers and processors",
+    "Le Cabinet Dutrieux fait appel à des prestataires externes pour certaines fonctions techniques ou administratives, notamment :": "Cabinet Dutrieux uses external service providers for certain technical or administrative functions, including:",
+    "Hébergement du site internet : bifycloud": "Website hosting: bifycloud",
+    "Gestion des rendez-vous en ligne : Microsoft Bookings": "Online appointment management: Microsoft Bookings",
+    "Affichage cartographique : Google Maps": "Map display: Google Maps",
+    "Mesure d’audience : Google Analytics": "Audience measurement: Google Analytics",
+    "Gestion du consentement aux cookies : CookieYes": "Cookie consent management: CookieYes",
+    "Messagerie électronique et sécurisation des systèmes informatiques": "Electronic messaging and IT system security",
+    "Lorsque ces prestataires traitent des données personnelles pour le compte du Cabinet Dutrieux, ils sont sélectionnés avec une attention particulière portée à la sécurité et à la protection des données.": "When these providers process personal data on behalf of Cabinet Dutrieux, they are selected with particular attention to data security and protection.",
     "9. Transferts de données en dehors de l'Espace économique européen": "9. Transfers of data outside the European Economic Area",
-
     "Le Cabinet Dutrieux privilégie, dans la mesure du possible, des solutions permettant de traiter les données au sein de l'Espace économique européen.": "Where possible, Cabinet Dutrieux favours solutions that allow data to be processed within the European Economic Area.",
-
-    "Lorsque l'utilisation d'un prestataire implique un transfert de données vers un pays situé en dehors de l'Espace économique européen, le Cabinet Dutrieux veille à ce que ce transfert soit effectué conformément au RGPD et qu'un mécanisme juridique approprié garantisse un niveau de protection adéquat.": "Where the use of a service provider involves the transfer of data to a country outside the European Economic Area, Cabinet Dutrieux ensures that the transfer is carried out in accordance with the GDPR and that an appropriate legal mechanism provides an adequate level of protection.",
-
+    "Lorsque l'utilisation d'un prestataire (par exemple Google ou Microsoft) implique un transfert de données vers un pays situé en dehors de l'EEE, le Cabinet Dutrieux veille à ce que ce transfert soit effectué conformément au RGPD et qu'un mécanisme juridique approprié (clauses contractuelles types notamment) garantisse un niveau de protection adéquat.": "Where the use of a provider such as Google or Microsoft involves transferring data to a country outside the EEA, Cabinet Dutrieux ensures that the transfer complies with the GDPR and that an appropriate legal mechanism, such as standard contractual clauses, provides an adequate level of protection.",
     "10. Combien de temps conservons-nous vos données ?": "10. How long do we retain your data?",
-
-    "La durée de conservation dépend de la nature des données et de la finalité du traitement.": "The retention period depends on the nature of the data and the purpose of the processing.",
-
-    "Les données relatives aux demandes de contact ou de rendez-vous sont conservées pendant la durée nécessaire à leur traitement et, lorsque cela est justifié, pendant une durée supplémentaire nécessaire à la gestion administrative ou à la défense des droits du cabinet.": "Data relating to contact or appointment requests is retained for as long as necessary to process the request and, where justified, for an additional period necessary for the administrative management or defence of the office's rights.",
-
-    "Les données relatives aux dossiers notariaux peuvent, quant à elles, être conservées pendant les durées imposées ou autorisées par les dispositions légales et réglementaires applicables à la profession notariale.": "Data relating to notarial matters may, for its part, be retained for the periods required or permitted by the legal and regulatory provisions applicable to the notarial profession.",
-
-    "En raison de la nature particulière des actes et dossiers notariaux, certaines données doivent être conservées pendant des périodes importantes afin de respecter les obligations légales, d'assurer la conservation des actes et de permettre l'exercice des droits des personnes concernées.": "Due to the specific nature of notarial deeds and matters, certain data must be retained for significant periods in order to comply with legal obligations, ensure the preservation of deeds and allow data subjects to exercise their rights.",
-
+    "La durée de conservation dépend de la nature des données et de la finalité du traitement :": "The retention period depends on the nature of the data and the purpose of the processing:",
+    "Catégorie de données": "Data category",
+    "Durée de conservation": "Retention period",
+    "Formulaire de contact sans ouverture de dossier": "Contact form without opening a matter",
+    "12 mois après le dernier échange": "12 months after the last communication",
+    "Demandes de rendez-vous sans ouverture de dossier": "Appointment requests without opening a matter",
+    "12 mois": "12 months",
+    "Données relatives aux prospects": "Prospective client data",
+    "3 ans à compter du dernier contact": "3 years from the last contact",
+    "Données relatives aux clients et aux dossiers notariaux": "Client and notarial matter data",
+    "Durée nécessaire au traitement du dossier, puis selon les obligations légales et archivistiques applicables au notariat": "For the period necessary to handle the matter, then according to the legal and archival obligations applicable to notarial activities",
+    "Actes et documents notariaux": "Notarial deeds and documents",
+    "Selon les obligations légales et archivistiques applicables aux actes et dossiers notariaux": "According to the legal and archival obligations applicable to notarial deeds and matters",
+    "Factures et pièces comptables": "Invoices and accounting records",
+    "10 ans": "10 years",
+    "Documents nécessaires aux obligations fiscales": "Documents required for tax obligations",
+    "Selon les délais légaux applicables": "According to applicable legal retention periods",
+    "Correspondances électroniques relatives à un dossier": "Electronic correspondence relating to a matter",
+    "Durée du dossier, puis selon les obligations d'archivage applicables": "For the duration of the matter, then according to applicable archiving obligations",
+    "Candidatures": "Job applications",
+    "6 mois après la fin du processus de recrutement, sauf accord pour une conservation plus longue": "6 months after the end of the recruitment process, unless you agree to longer retention",
+    "Journaux techniques et logs de sécurité": "Technical logs and security logs",
+    "Données statistiques Google Analytics": "Google Analytics statistical data",
+    "14 mois": "14 months",
+    "Preuves et préférences de consentement cookies": "Cookie consent records and preferences",
+    "13 mois": "13 months",
+    "Demandes d’exercice des droits RGPD": "GDPR rights requests",
+    "5 ans après clôture de la demande": "5 years after closure of the request",
+    "En raison de la nature particulière des actes et dossiers notariaux, certaines données doivent être conservées pendant des périodes importantes afin de respecter les obligations légales, d'assurer la conservation des actes et de permettre l'exercice des droits des personnes concernées.": "Due to the particular nature of notarial deeds and matters, certain data must be retained for significant periods in order to comply with legal obligations, preserve deeds and enable data subjects to exercise their rights.",
     "11. Comment protégeons-nous vos données ?": "11. How do we protect your data?",
-
-    "Le Cabinet Dutrieux met en œuvre des mesures techniques et organisationnelles destinées à protéger les données personnelles contre :": "Cabinet Dutrieux implements technical and organisational measures designed to protect personal data against:",
-
-    "l'accès non autorisé ;": "unauthorised access;",
-    "la perte ;": "loss;",
-    "la destruction ;": "destruction;",
-    "l'altération ;": "alteration;",
-    "la divulgation non autorisée ;": "unauthorised disclosure;",
-    "toute autre forme de traitement illicite.": "any other form of unlawful processing.",
-
-    "Ces mesures peuvent notamment comprendre :": "These measures may include:",
-
-    "la limitation des accès aux données ;": "restriction of access to data;",
-    "l'authentification des utilisateurs ;": "user authentication;",
-    "la gestion des droits d'accès ;": "management of access rights;",
-    "la sécurisation des systèmes informatiques ;": "security of IT systems;",
-    "la sauvegarde des données ;": "data backups;",
-    "la sécurisation des communications électroniques ;": "security of electronic communications;",
-    "la sensibilisation des collaborateurs à la confidentialité ;": "staff awareness of confidentiality;",
-    "des mesures de protection contre les accès non autorisés.": "protective measures against unauthorised access.",
-
+    "Le Cabinet Dutrieux met en œuvre des mesures techniques et organisationnelles destinées à protéger les données personnelles contre l'accès non autorisé, la perte, la destruction, l'altération, la divulgation non autorisée ou toute autre forme de traitement illicite, notamment :": "Cabinet Dutrieux implements technical and organisational measures designed to protect personal data against unauthorised access, loss, destruction, alteration, unauthorised disclosure or any other form of unlawful processing, including:",
+    "limitation des accès aux données et gestion des droits d'accès": "limitation of access to data and management of access rights",
+    "authentification des utilisateurs": "user authentication",
+    "sécurisation des systèmes informatiques et des communications électroniques": "security of IT systems and electronic communications",
+    "sauvegarde régulière des données": "regular data backups",
+    "sensibilisation des collaborateurs à la confidentialité": "staff awareness of confidentiality",
+    "11.1. En cas de violation de données": "11.1. In the event of a data breach",
+    "En cas de violation de données à caractère personnel susceptible d'engendrer un risque pour les droits et libertés des personnes concernées, le Cabinet Dutrieux notifiera cette violation à l'Autorité de protection des données dans les délais prévus par le RGPD et, lorsque le risque est élevé, en informera les personnes concernées.": "In the event of a personal data breach likely to result in a risk to the rights and freedoms of data subjects, Cabinet Dutrieux will notify the Data Protection Authority within the deadlines provided by the GDPR and, where the risk is high, will inform the affected individuals.",
     "12. Secret professionnel et confidentialité": "12. Professional secrecy and confidentiality",
-
-    "La confidentialité constitue un principe essentiel de l'activité notariale.": "Confidentiality is a fundamental principle of notarial activities.",
-
-    "Les informations auxquelles le notaire a accès dans le cadre de ses fonctions peuvent être soumises au secret professionnel ou au devoir de discrétion conformément aux règles applicables à la profession notariale.": "Information to which the notary has access in the course of their duties may be subject to professional secrecy or a duty of confidentiality in accordance with the rules applicable to the notarial profession.",
-
-    "Le notaire est notamment tenu à un devoir de discrétion qui limite la communication d'informations à des tiers, sauf lorsque cette communication est nécessaire ou utile à l'opération dont il est chargé ou lorsqu'une disposition légale l'autorise ou l'impose.": "The notary is in particular subject to a duty of confidentiality that limits the disclosure of information to third parties, except where such disclosure is necessary or useful for the transaction entrusted to them or where a legal provision authorises or requires it.",
-
-    "La protection des données personnelles s'inscrit ainsi dans un cadre plus large comprenant les obligations professionnelles, légales et déontologiques propres au notariat.": "The protection of personal data therefore forms part of a broader framework comprising the professional, legal and ethical obligations specific to the notarial profession.",
-
+    "La confidentialité constitue un principe essentiel de l'activité notariale. Les informations auxquelles le notaire a accès dans le cadre de ses fonctions peuvent être soumises au secret professionnel ou au devoir de discrétion conformément aux règles applicables à la profession notariale.": "Confidentiality is a fundamental principle of notarial activity. Information accessed by the notary in the course of their duties may be subject to professional secrecy or a duty of discretion in accordance with the rules applicable to the notarial profession.",
+    "Le notaire est notamment tenu à un devoir de discrétion qui limite la communication d'informations à des tiers, sauf lorsque cette communication est nécessaire ou utile à l'opération dont il est chargé ou lorsqu'une disposition légale l'autorise ou l'impose.": "The notary is subject to a duty of discretion that limits the disclosure of information to third parties, except where such disclosure is necessary or useful for the transaction entrusted to the notary or where required or authorised by law.",
     "13. Vos droits": "13. Your rights",
-
-    "Conformément au RGPD, vous disposez, selon les circonstances et sous réserve des limitations prévues par la loi, de différents droits concernant vos données personnelles.": "Under the GDPR, depending on the circumstances and subject to the limitations provided by law, you have various rights concerning your personal data.",
-
-    "D'un droit d'accès": "Right of access",
-
-    "Vous pouvez demander à savoir si vos données personnelles sont traitées et, dans certaines conditions, obtenir une copie des données vous concernant ainsi que certaines informations sur leur traitement.": "You may request confirmation as to whether your personal data is being processed and, under certain conditions, obtain a copy of your data as well as certain information about its processing.",
-
-    "D'un droit de rectification": "Right to rectification",
-
-    "Vous pouvez demander la correction de données personnelles inexactes ou leur complément lorsqu'elles sont incomplètes.": "You may request the correction of inaccurate personal data or the completion of incomplete data.",
-
-    "D'un droit à l'effacement": "Right to erasure",
-
-    "Vous pouvez, dans certaines situations prévues par le RGPD, demander l'effacement de vos données.": "In certain situations provided for by the GDPR, you may request the erasure of your data.",
-
-    "Ce droit n'est toutefois pas absolu. Certaines données doivent notamment être conservées lorsque leur conservation est imposée par une obligation légale ou nécessaire à l'exercice des missions notariales.": "However, this right is not absolute. Certain data must be retained where retention is required by a legal obligation or necessary for the performance of notarial duties.",
-
-    "D'un droit à la limitation du traitement": "Right to restriction of processing",
-
+    "Droit d'accès": "Right of access",
+    "Vous pouvez demander à savoir si vos données personnelles sont traitées et, dans certaines conditions, obtenir une copie des données vous concernant.": "You may ask whether your personal data is being processed and, under certain conditions, obtain a copy of the data concerning you.",
+    "Droit de rectification": "Right to rectification",
+    "Vous pouvez demander la correction de données inexactes ou leur complément lorsqu'elles sont incomplètes.": "You may request the correction of inaccurate data or the completion of incomplete data.",
+    "Droit à l'effacement": "Right to erasure",
+    "Vous pouvez, dans certaines situations prévues par le RGPD, demander l'effacement de vos données. Ce droit n'est toutefois pas absolu : certaines données doivent être conservées lorsque leur conservation est imposée par une obligation légale ou nécessaire à l'exercice des missions notariales.": "In certain situations provided for by the GDPR, you may request the deletion of your data. However, this right is not absolute: certain data must be retained where required by law or necessary to perform notarial duties.",
+    "Droit à la limitation du traitement": "Right to restriction of processing",
     "Dans certaines situations, vous pouvez demander que le traitement de vos données soit limité.": "In certain situations, you may request that the processing of your data be restricted.",
-
-    "D'un droit d'opposition": "Right to object",
-
-    "Lorsque le traitement repose sur certains fondements juridiques, vous pouvez vous opposer au traitement de vos données pour des raisons tenant à votre situation particulière.": "Where processing is based on certain legal grounds, you may object to the processing of your data for reasons relating to your particular situation.",
-
-    "D'un droit à la portabilité": "Right to data portability",
-
-    "Lorsque les conditions prévues par le RGPD sont réunies, vous pouvez recevoir certaines données personnelles dans un format structuré, couramment utilisé et lisible par machine, ou demander leur transmission à un autre responsable du traitement.": "Where the conditions provided for by the GDPR are met, you may receive certain personal data in a structured, commonly used and machine-readable format, or request that it be transmitted to another data controller.",
-
-    "D'un droit de retirer votre consentement": "Right to withdraw your consent",
-
-    "Lorsque le traitement repose sur votre consentement, vous pouvez retirer celui-ci à tout moment.": "Where processing is based on your consent, you may withdraw your consent at any time.",
-
-    "Le retrait du consentement n'affecte pas la licéité des traitements effectués avant ce retrait.": "Withdrawal of consent does not affect the lawfulness of processing carried out before the withdrawal.",
-
+    "Droit d'opposition": "Right to object",
+    "Lorsque le traitement repose sur certains fondements juridiques, vous pouvez vous opposer au traitement de vos données pour des raisons tenant à votre situation particulière.": "Where processing is based on certain legal grounds, you may object to the processing of your data on grounds relating to your particular situation.",
+    "Droit à la portabilité": "Right to data portability",
+    "Lorsque les conditions prévues par le RGPD sont réunies, vous pouvez recevoir certaines données dans un format structuré et lisible par machine, ou demander leur transmission à un autre responsable du traitement.": "Where the conditions provided for by the GDPR are met, you may receive certain data in a structured, commonly used and machine-readable format, or request that it be transmitted to another controller.",
+    "Droit de retirer votre consentement": "Right to withdraw consent",
+    "Lorsque le traitement repose sur votre consentement, vous pouvez le retirer à tout moment, sans que cela n’affecte la licéité des traitements effectués avant ce retrait.": "Where processing is based on your consent, you may withdraw it at any time without affecting the lawfulness of processing carried out before the withdrawal.",
     "14. Comment exercer vos droits ?": "14. How can you exercise your rights?",
-
-    "Pour exercer vos droits ou obtenir des informations complémentaires concernant le traitement de vos données, vous pouvez contacter le Cabinet Dutrieux :": "To exercise your rights or obtain further information about the processing of your data, you may contact Cabinet Dutrieux:",
-
-    "Votre demande doit permettre au cabinet de vous identifier de manière raisonnable afin d'éviter qu'une personne non autorisée puisse accéder à vos données.": "Your request must allow the office to reasonably identify you in order to prevent an unauthorised person from accessing your data.",
-
-    "Le Cabinet Dutrieux traitera votre demande conformément aux délais et conditions prévus par le RGPD et les dispositions légales applicables.": "Cabinet Dutrieux will process your request in accordance with the time limits and conditions provided for by the GDPR and applicable legal provisions.",
-
+    "Pour exercer vos droits ou obtenir des informations complémentaires, vous pouvez contacter le Cabinet Dutrieux :": "To exercise your rights or obtain further information, you can contact Cabinet Dutrieux:",
+    "E-mail :": "E-mail:",
+    "Votre demande doit permettre au cabinet de vous identifier de manière raisonnable afin d'éviter qu'une personne non autorisée puisse accéder à vos données.": "Your request must enable the office to reasonably identify you in order to prevent an unauthorised person from accessing your data.",
+    "Le Cabinet Dutrieux traitera votre demande dans un délai d'un mois à compter de sa réception, conformément aux délais et conditions prévus par le RGPD, ce délai pouvant être prolongé de deux mois supplémentaires en cas de demande complexe.": "Cabinet Dutrieux will process your request within one month of receiving it, in accordance with the deadlines and conditions provided for by the GDPR. This period may be extended by an additional two months in the event of a complex request.",
     "15. Droit d'introduire une réclamation": "15. Right to lodge a complaint",
-
-    "Si vous estimez que le traitement de vos données personnelles ne respecte pas les règles applicables en matière de protection des données, vous pouvez contacter le Cabinet Dutrieux afin de rechercher une solution.": "If you believe that the processing of your personal data does not comply with the applicable data protection rules, you may contact Cabinet Dutrieux in order to seek a solution.",
-
-    "Vous disposez également du droit d'introduire une réclamation auprès de l'autorité de contrôle compétente en Belgique :": "You also have the right to lodge a complaint with the competent supervisory authority in Belgium:",
-
+    "Si vous estimez que le traitement de vos données personnelles ne respecte pas les règles applicables, vous pouvez contacter le Cabinet Dutrieux afin de rechercher une solution. Vous disposez également du droit d'introduire une réclamation auprès de l'autorité de contrôle compétente en Belgique :": "If you believe that the processing of your personal data does not comply with the applicable rules, you may contact Cabinet Dutrieux to seek a solution. You also have the right to lodge a complaint with the competent supervisory authority in Belgium:",
     "Autorité de protection des données (APD)": "Data Protection Authority (DPA)",
-
     "Site officiel :": "Official website:",
-
-    "L'Autorité de protection des données constitue l'autorité belge compétente en matière de protection des données à caractère personnel.": "The Data Protection Authority is the Belgian authority competent for the protection of personal data.",
-
     "16. Cookies": "16. Cookies",
-
-    "Le site internet du Cabinet Dutrieux peut utiliser des cookies ou technologies similaires nécessaires à son fonctionnement.": "The Cabinet Dutrieux website may use cookies or similar technologies necessary for its operation.",
-
-    "Les cookies peuvent notamment être utilisés afin :": "Cookies may be used in particular to:",
-
-    "d'assurer le fonctionnement technique du site ;": "ensure the technical operation of the website;",
-    "de mémoriser certaines préférences ;": "remember certain preferences;",
-    "d'améliorer la sécurité ;": "improve security;",
-    "d'établir des statistiques de fréquentation lorsque cela est applicable.": "compile visitor statistics where applicable.",
-
-    "Lorsque certains cookies nécessitent votre consentement, celui-ci sera recueilli conformément à la réglementation applicable.": "Where certain cookies require your consent, it will be obtained in accordance with applicable regulations.",
-
+    "Le site internet du Cabinet Dutrieux utilise des cookies ou technologies similaires afin d’assurer son fonctionnement technique, de mémoriser certaines préférences, d’améliorer la sécurité et d’établir des statistiques de fréquentation. Lorsque certains cookies nécessitent votre consentement, celui-ci est recueilli via notre bandeau de gestion des cookies (CookieYes) conformément à la réglementation applicable.": "The Cabinet Dutrieux website uses cookies or similar technologies to ensure its technical operation, remember certain preferences, improve security and generate visitor statistics. Where certain cookies require your consent, it is collected through our cookie management banner (CookieYes) in accordance with applicable regulations.",
+    "Cookie": "Cookie",
+    "Finalité": "Purpose",
+    "cookieyes-consent": "cookieyes-consent",
+    "Enregistrement des préférences de consentement de l'utilisateur": "Recording the user's consent preferences",
+    "1 an": "1 year",
+    "_ga": "_ga",
+    "Analyse statistique et distinction des utilisateurs": "Statistical analysis and user identification",
+    "2 ans": "2 years",
+    "_ga_*": "_ga_*",
+    "Maintien de l’état de session Google Analytics": "Maintaining Google Analytics session state",
+    "_gid": "_gid",
+    "Distinction des utilisateurs à des fins statistiques": "Distinguishing users for statistical purposes",
+    "24 heures": "24 hours",
+    "_gat": "_gat",
+    "Limitation du nombre de requêtes adressées à Google Analytics": "Limiting the number of requests sent to Google Analytics",
+    "1 minute": "1 minute",
+    "Cookies Microsoft Bookings": "Microsoft Bookings cookies",
+    "Fonctionnement et gestion des rendez-vous": "Appointment operation and management",
+    "Durée de session ou selon configuration du service": "Session duration or according to the service configuration",
+    "Cookies Google Maps": "Google Maps cookies",
+    "Fonctionnement et affichage de la carte": "Map operation and display",
+    "Selon la configuration Google et le consentement de l’utilisateur": "According to Google's configuration and the user's consent",
+    "Vous pouvez à tout moment modifier vos préférences de cookies via le bandeau de consentement accessible sur le site.": "You can change your cookie preferences at any time through the consent banner available on the website.",
     "17. Formulaires de contact et de rendez-vous": "17. Contact and appointment forms",
-
-    "Les informations communiquées via les formulaires du site sont destinées au Cabinet Dutrieux et sont utilisées uniquement dans la mesure nécessaire pour traiter votre demande.": "The information provided through the website forms is intended for Cabinet Dutrieux and is used only to the extent necessary to process your request.",
-
-    "Le formulaire de contact peut notamment permettre à l'étude de recevoir :": "The contact form may allow the office to receive, in particular:",
-
-    "votre identité ;": "your identity;",
-    "vos coordonnées ;": "your contact details;",
-    "votre message ;": "your message;",
-    "les informations nécessaires pour vous répondre.": "the information necessary to respond to you.",
-
-    "Le formulaire de rendez-vous peut notamment permettre à l'étude de recevoir :": "The appointment form may allow the office to receive, in particular:",
-
-    "votre demande ;": "your request;",
-    "vos disponibilités ou préférences de rendez-vous ;": "your availability or appointment preferences;",
-    "les informations strictement nécessaires à l'organisation de celui-ci.": "the information strictly necessary to arrange the appointment.",
-
+    "Les informations communiquées via les formulaires du site sont destinées au Cabinet Dutrieux et sont utilisées uniquement dans la mesure nécessaire pour traiter votre demande.": "Information submitted through the website forms is intended for Cabinet Dutrieux and is used only to the extent necessary to process your request.",
+    "Formulaire de contact": "Contact form",
+    "votre identité": "your identity",
+    "vos coordonnées": "your contact details",
+    "votre message et les informations nécessaires pour vous répondre": "your message and the information necessary to respond to you",
+    "Formulaire de rendez-vous": "Appointment form",
+    "votre identité et vos coordonnées": "your identity and contact details",
+    "votre demande": "your request",
+    "vos disponibilités ou préférences de rendez-vous": "your availability or appointment preferences",
+    "les informations strictement nécessaires à l'organisation de celui-ci": "the information strictly necessary to arrange the appointment",
     "Important :": "Important:",
-
-    "nous vous recommandons de ne pas transmettre de données sensibles ou de documents confidentiels via le formulaire de contact, sauf lorsque cela vous est expressément demandé par l'étude et via un moyen de transmission approprié.": "we recommend that you do not transmit sensitive data or confidential documents through the contact form, unless expressly requested by the office and through an appropriate means of transmission.",
-
+    "nous vous recommandons de ne pas transmettre de données sensibles ou de documents confidentiels via le formulaire de contact, sauf lorsque cela vous est expressément demandé par l'étude et via un moyen de transmission approprié.": "We recommend that you do not submit sensitive data or confidential documents through the contact form unless expressly requested by the office and through an appropriate transmission method.",
     "18. Liens vers des sites tiers": "18. Links to third-party websites",
-
-    "Le site du Cabinet Dutrieux peut contenir des liens vers des sites internet ou services appartenant à des tiers.": "The Cabinet Dutrieux website may contain links to websites or services operated by third parties.",
-
-    "Le Cabinet Dutrieux n'est pas responsable des pratiques de confidentialité, du contenu ou de la sécurité de ces sites tiers.": "Cabinet Dutrieux is not responsible for the privacy practices, content or security of these third-party websites.",
-
-    "Nous vous invitons à consulter leurs propres politiques de confidentialité avant de leur communiquer des données personnelles.": "We encourage you to review their own privacy policies before providing them with personal data.",
-
-    "19. Modifications de la présente politique": "19. Changes to this Privacy Policy",
-
-    "La présente politique de confidentialité peut être mise à jour afin de tenir compte :": "This Privacy Policy may be updated to reflect:",
-
-    "de l'évolution de la législation ;": "changes in legislation;",
-    "des recommandations des autorités compétentes ;": "recommendations from the competent authorities;",
-    "de l'évolution des activités du Cabinet Dutrieux ;": "changes in the activities of Cabinet Dutrieux;",
-    "de l'évolution du site internet et de ses fonctionnalités ;": "changes to the website and its functionalities;",
-    "de l'évolution des technologies utilisées.": "changes in the technologies used.",
-
-    "La version la plus récente sera publiée sur cette page et indiquera sa date de dernière mise à jour.": "The most recent version will be published on this page and will indicate the date on which it was last updated.",
-
+    "Le site du Cabinet Dutrieux peut contenir des liens vers des sites internet ou services appartenant à des tiers. Le Cabinet Dutrieux n’est pas responsable des pratiques de confidentialité, du contenu ou de la sécurité de ces sites tiers.": "The Cabinet Dutrieux website may contain links to websites or services operated by third parties. Cabinet Dutrieux is not responsible for the privacy practices, content or security of these third-party websites.",
+    "Nous vous invitons à consulter leurs propres politiques de confidentialité avant de leur communiquer des données personnelles.": "We recommend that you review their own privacy policies before providing them with personal data.",
+    "19. Modifications de la présente politique": "19. Changes to this policy",
+    "La présente politique de confidentialité peut être mise à jour afin de tenir compte de l'évolution de la législation, des recommandations des autorités compétentes, de l'évolution des activités du Cabinet Dutrieux, du site internet et de ses fonctionnalités, ou des technologies utilisées.": "This privacy policy may be updated to reflect changes in legislation, recommendations from competent authorities, changes to Cabinet Dutrieux's activities, the website and its features, or the technologies used.",
+    "La version la plus récente sera publiée sur cette page et indiquera sa date de dernière mise à jour.": "The most recent version will be published on this page and will indicate its date of last update.",
     "20. Contact": "20. Contact",
+    "Pour toute question concernant la présente politique de confidentialité ou le traitement de vos données personnelles, vous pouvez contacter :": "For any questions regarding this privacy policy or the processing of your personal data, you can contact:",
+    "Numéro d'entreprise :": "Company registration number:",
 
-    "Pour toute question concernant la présente politique de confidentialité ou le traitement de vos données personnelles, vous pouvez contacter :": "For any questions concerning this Privacy Policy or the processing of your personal data, you may contact:",
 
-    "Informations importantes": "Important information",
+    "Mentions légales": "Legal notice",
+    "Mentions légales — Cabinet Dutrieux": "Legal Notice — Cabinet Dutrieux",
+    "1. Éditeur du site": "1. Website Publisher",
+    "Le présent site internet est édité par :": "This website is published by:",
+    "Nom commercial / Enseigne :": "Trade name / Business name:",
+    "Dénomination :": "Legal name:",
+    "Cabinet Dutrieux SRL": "Cabinet Dutrieux SRL",
+    "Numéro SIREN :": "SIREN number:",
+    "584 584 854": "584 584 854",
+    "Code NAF :": "NAF code:",
+    "5874Z": "5874Z",
+    "Statut juridique :": "Legal form:",
+    "Société à responsabilité limitée (SRL)": "Private limited liability company (SRL)",
+    "Activité :": "Activity:",
+    "Étude notariale": "Notarial office",
+    "Notaire :": "Notary:",
+    "Maître Charles Yves Dutrieux, notaire": "Maître Charles Yves Dutrieux, Notary",
+    "Adresse e-mail :": "Email address:",
+    "Adresse e-mail relative à la protection des données :": "Email address for data protection matters:",
+    "2. Profession réglementée": "2. Regulated Profession",
+    "Le Cabinet Dutrieux exerce une activité notariale réglementée en Belgique.": "Cabinet Dutrieux carries out a regulated notarial activity in Belgium.",
+    "Maître Charles Yves Dutrieux exerce la profession de notaire conformément aux dispositions légales et réglementaires applicables à la profession notariale en Belgique.": "Maître Charles Yves Dutrieux practices as a notary in accordance with the laws and regulations applicable to the notarial profession in Belgium.",
+    "L'activité notariale est soumise aux règles professionnelles et déontologiques applicables aux notaires ainsi qu'à la supervision des autorités et instances compétentes.": "Notarial activities are subject to the professional and ethical rules applicable to notaries, as well as to the supervision of the competent authorities and professional bodies.",
+    "Pour plus d’informations sur la profession notariale et son cadre réglementaire, l’utilisateur peut consulter le site de la Fédération Royale du Notariat belge (Fednot).": "For more information about the notarial profession and its regulatory framework, users may consult the website of the Royal Federation of Belgian Notaries (Fednot).",
+    "3. Activité": "3. Activity",
+    "Le Cabinet Dutrieux est une étude notariale établie en Belgique.": "Cabinet Dutrieux is a notarial office established in Belgium.",
+    "L'étude accompagne les particuliers, les entreprises et les professionnels dans leurs démarches et opérations notariales, notamment en matière de droit immobilier, droit familial, successions, donations, droit des sociétés et autres actes relevant de la compétence du notaire.": "The office assists individuals, companies and professionals with their notarial procedures and transactions, particularly in the areas of real estate law, family law, estates, donations, company law and other matters falling within the competence of a notary.",
+    "Les informations présentées sur le présent site ont pour objectif de fournir une information générale sur les activités et services de l’étude. Elles ne constituent pas, à elles seules, un avis juridique personnalisé.": "The information provided on this website is intended to give general information about the activities and services of the office. It does not, in itself, constitute personalised legal advice.",
+    "4. Responsabilité": "4. Liability",
+    "Le Cabinet Dutrieux apporte une attention particulière à l’exactitude et à la mise à jour des informations publiées sur son site internet.": "Cabinet Dutrieux takes particular care to ensure the accuracy and up-to-date nature of the information published on its website.",
+    "Toutefois, les informations disponibles sur le site sont fournies à titre général et informatif. Le Cabinet Dutrieux ne peut garantir que l’ensemble des informations publiées soit exhaustif, constamment à jour ou exempt d’erreurs.": "However, the information available on the website is provided for general and informational purposes. Cabinet Dutrieux cannot guarantee that all published information is complete, constantly up to date or free from errors.",
+    "L’utilisation des informations publiées sur le site relève de la responsabilité de l’utilisateur.": "Users are responsible for their use of the information published on the website.",
+    "Les informations publiées sur le site ne remplacent pas une consultation personnalisée auprès d’un notaire ou d’un professionnel compétent.": "The information published on the website does not replace personalised advice from a notary or another competent professional.",
+    "5. Propriété intellectuelle": "5. Intellectual Property",
+    "L’ensemble des éléments composant le présent site, notamment les textes, photographies, illustrations, logos, éléments graphiques, vidéos, documents et éléments de mise en page, est protégé par les dispositions applicables en matière de propriété intellectuelle.": "All elements comprising this website, including texts, photographs, illustrations, logos, graphic elements, videos, documents and layout elements, are protected by applicable intellectual property laws.",
+    "Sauf indication contraire, ces éléments sont la propriété du Cabinet Dutrieux ou sont utilisés avec l’autorisation de leurs titulaires respectifs.": "Unless otherwise stated, these elements are the property of Cabinet Dutrieux or are used with the permission of their respective rights holders.",
+    "Toute reproduction, représentation, modification, adaptation, distribution ou exploitation, totale ou partielle, du contenu du site sans autorisation préalable est interdite, sauf dans les limites autorisées par la loi.": "Any reproduction, representation, modification, adaptation, distribution or exploitation, in whole or in part, of the website content without prior authorisation is prohibited, except within the limits permitted by law.",
+    "6. Protection des données personnelles": "6. Personal Data Protection",
+    "Le Cabinet Dutrieux accorde une importance particulière à la protection des données à caractère personnel traitées dans le cadre de ses activités.": "Cabinet Dutrieux places particular importance on the protection of personal data processed in connection with its activities.",
+    "Les données personnelles collectées par l’intermédiaire du site sont traitées conformément au Règlement (UE) 2016/679 relatif à la protection des données (RGPD) et aux dispositions belges applicables en matière de protection des données.": "Personal data collected through the website is processed in accordance with Regulation (EU) 2016/679 on data protection (GDPR) and applicable Belgian data protection legislation.",
+    "Les informations relatives aux finalités des traitements, aux bases juridiques, aux destinataires des données, aux durées de conservation et aux droits des personnes concernées sont détaillées dans la Politique de confidentialité du Cabinet Dutrieux.": "Information regarding the purposes of processing, legal bases, data recipients, retention periods and the rights of data subjects is detailed in Cabinet Dutrieux's Privacy Policy.",
+    "Pour toute question relative à la protection des données ou pour exercer ses droits, l’utilisateur peut contacter :": "For any questions relating to data protection or to exercise their rights, users may contact:",
+    "7. Cookies": "7. Cookies",
+    "Le site utilise des cookies et technologies similaires nécessaires à son fonctionnement ainsi que, lorsque l’utilisateur y consent, des cookies destinés notamment à l’analyse statistique et à certaines fonctionnalités externes.": "The website uses cookies and similar technologies that are necessary for its operation and, where the user has given consent, cookies intended in particular for statistical analysis and certain external features.",
+    "L’utilisateur peut gérer ses préférences en matière de cookies à partir du module de gestion du consentement disponible sur le site.": "Users can manage their cookie preferences through the consent management module available on the website.",
+    "Les informations détaillées relatives aux cookies utilisés, à leurs finalités et à leur durée de conservation sont présentées dans la Politique relative aux cookies.": "Detailed information about the cookies used, their purposes and retention periods is provided in the Cookie Policy.",
+    "8. Hébergement": "8. Hosting",
+    "Le site internet est hébergé par :": "The website is hosted by:",
+    "OVHcloud": "OVHcloud",
+    "2 rue Kellermann": "2 rue Kellermann",
+    "59100 Roubaix, France": "59100 Roubaix, France",
+    "Les services d’hébergement sont fournis conformément aux conditions contractuelles applicables à l’utilisation des services OVHcloud.": "Hosting services are provided in accordance with the contractual terms applicable to the use of OVHcloud services.",
+    "9. Messagerie électronique": "9. Email Services",
+    "Les services de messagerie professionnelle du Cabinet Dutrieux sont fournis au moyen de Microsoft 365 / Exchange Online.": "Cabinet Dutrieux's professional email services are provided through Microsoft 365 / Exchange Online.",
+    "Les adresses électroniques professionnelles du Cabinet utilisent le domaine :": "The firm's professional email addresses use the following domain:",
+    "10. Prise de rendez-vous": "10. Appointments",
+    "Le site permet aux visiteurs de prendre contact avec l’étude et, lorsque cette fonctionnalité est disponible, de demander un rendez-vous en ligne au moyen de Microsoft Bookings.": "The website allows visitors to contact the office and, where this feature is available, request an appointment online through Microsoft Bookings.",
+    "Les données communiquées lors de la prise de rendez-vous sont traitées uniquement dans le cadre de la gestion de la demande et conformément à la Politique de confidentialité du Cabinet Dutrieux.": "Data provided when requesting an appointment is processed solely for the purpose of managing the request and in accordance with Cabinet Dutrieux's Privacy Policy.",
+    "11. Statistiques et analyse du site": "11. Website Statistics and Analytics",
+    "Le site utilise Google Analytics 4 afin de mesurer la fréquentation du site et d’améliorer son contenu et son fonctionnement.": "The website uses Google Analytics 4 to measure website traffic and improve its content and functionality.",
+    "Les fonctionnalités statistiques non nécessaires au fonctionnement du site sont activées conformément aux choix exprimés par l’utilisateur dans le module de gestion du consentement.": "Statistical features that are not necessary for the operation of the website are activated in accordance with the choices expressed by the user through the consent management module.",
+    "12. Cartographie": "12. Mapping Services",
+    "Certaines pages du site peuvent intégrer un service de cartographie fourni par Google Maps afin de permettre aux visiteurs de localiser l’étude.": "Certain pages of the website may integrate a mapping service provided by Google Maps to allow visitors to locate the office.",
+    "Lorsque cette fonctionnalité implique le dépôt ou la lecture de cookies ou le traitement de données nécessitant un consentement, le service est chargé conformément aux préférences exprimées par l’utilisateur.": "Where this feature involves the storage or reading of cookies or the processing of data requiring consent, the service is loaded in accordance with the preferences expressed by the user.",
+    "13. Liens externes": "13. External Links",
+    "Le site peut contenir des liens vers des sites internet ou services exploités par des tiers.": "The website may contain links to websites or services operated by third parties.",
+    "Le Cabinet Dutrieux n’exerce aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques de ces sites tiers et ne peut être tenu responsable de leur contenu ou de leur fonctionnement.": "Cabinet Dutrieux has no control over the content, privacy policies or practices of these third-party websites and cannot be held responsible for their content or operation.",
+    "14. Droit applicable": "14. Applicable Law",
+    "Le présent site et son utilisation sont soumis au droit belge, sous réserve des dispositions impératives du droit de l’Union européenne qui seraient applicables.": "This website and its use are governed by Belgian law, subject to any mandatory provisions of European Union law that may apply.",
+    "Tout litige relatif au site sera traité conformément aux règles de compétence applicables en Belgique.": "Any dispute relating to the website shall be dealt with in accordance with the applicable jurisdictional rules in Belgium.",
+    "15. Mise à jour": "15. Updates",
+    "Les présentes mentions légales peuvent être modifiées à tout moment afin de tenir compte de l’évolution du site, de l’activité du Cabinet Dutrieux ou des exigences légales et réglementaires applicables.": "This Legal Notice may be amended at any time to reflect changes to the website, the activities of Cabinet Dutrieux or applicable legal and regulatory requirements.",
+    "Dernière mise à jour": "Last updated",
+    "Août 2026": "August 2026",
+    "@cabinetdutrieux.be": "@cabinetdutrieux.be",
 
-    "La présente politique constitue un modèle adapté au contexte d'un cabinet notarial belge et à un site internet comprenant notamment des formulaires de contact et de prise de rendez-vous.": "This Privacy Policy is a template adapted to the context of a Belgian notarial office and a website that includes, in particular, contact and appointment request forms.",
 
-    "Avant sa mise en ligne définitive, elle doit être vérifiée et complétée avec les informations propres au Cabinet Dutrieux, notamment l'identité juridique exacte du responsable du traitement, le numéro d'entreprise, les coordonnées officielles, l'adresse e-mail destinée aux demandes relatives aux données personnelles, ainsi que les outils réellement utilisés par le site.": "Before its final publication, it must be reviewed and completed with information specific to Cabinet Dutrieux, including the exact legal identity of the data controller, the company number, official contact details, the email address intended for personal data requests, and the tools actually used by the website.",
 
-    "Les informations relatives à l'hébergement, à la messagerie, aux cookies, aux éventuels services d'analyse, de statistiques, de carte ou de prise de rendez-vous, ainsi que les durées de conservation effectivement appliquées par l'étude doivent également être vérifiées.": "Information relating to hosting, email services, cookies, any analytics, statistics, mapping or appointment booking services, as well as the actual retention periods applied by the office, must also be verified.",
+    "COOKIE POPUP":"cookie BANNER",
+    "Votre vie privée compte": "Your privacy matters",
+    "Ce site utilise des cookies afin d’assurer son bon fonctionnement, d’améliorer votre expérience de navigation et, avec votre accord, de mesurer sa fréquentation.": "This website uses cookies to ensure its proper functioning, improve your browsing experience and, with your consent, measure website traffic.",
+    "En savoir plus sur notre politique relative aux cookies": "Learn more about our cookie policy",
+    "Refuser": "Decline",
+    "Accepter": "Accept",
 
-    "Attention :": "Warning:",
 
-    "cette politique ne doit pas être publiée comme un document juridiquement définitif sans cette vérification préalable.": "this policy should not be published as a legally definitive document without this prior review."
 
-    
-    
+    "Politique relative aux cookies": "Cookie Policy",
+    "La présente politique relative aux cookies explique comment le site internet du Cabinet Dutrieux utilise des cookies et des technologies similaires, quelles sont leurs finalités, combien de temps ils peuvent être conservés et comment vous pouvez gérer vos préférences.": "This Cookie Policy explains how the Cabinet Dutrieux website uses cookies and similar technologies, the purposes for which they are used, how long they may be stored, and how you can manage your preferences.",
+    "Le Cabinet Dutrieux accorde une importance particulière au respect de la vie privée et veille à utiliser les cookies conformément à la réglementation applicable en Belgique et au Règlement général sur la protection des données.": "Cabinet Dutrieux attaches particular importance to privacy and ensures that cookies are used in accordance with the regulations applicable in Belgium and the General Data Protection Regulation.",
+    "Cette politique complète la Politique de confidentialité du Cabinet Dutrieux, qui présente de manière plus générale les traitements de données à caractère personnel réalisés dans le cadre du site et des activités de l’étude.": "This policy supplements the Cabinet Dutrieux Privacy Policy, which provides more general information about the processing of personal data carried out through the website and as part of the firm's activities.",
+    "1. Qu’est-ce qu’un cookie ?": "1. What is a cookie?",
+    "Un cookie est un petit fichier texte ou un dispositif similaire enregistré sur votre ordinateur, votre smartphone, votre tablette ou tout autre appareil lorsque vous consultez un site internet.": "A cookie is a small text file or similar technology stored on your computer, smartphone, tablet or other device when you visit a website.",
+    "Les cookies permettent notamment à un site de fonctionner correctement, de mémoriser certaines préférences, de sécuriser les services, de mesurer la fréquentation ou encore de permettre le fonctionnement de fonctionnalités fournies par des services externes.": "Cookies can allow a website to function properly, remember certain preferences, secure services, measure website traffic, and enable features provided by external services.",
+    "2. Responsable du traitement": "2. Data Controller",
+    "Le responsable du traitement des données personnelles éventuellement traitées au moyen des cookies du site est :": "The data controller for any personal data that may be processed through the website's cookies is:",
+    "3. Quelles catégories de cookies utilisons-nous ?": "3. What categories of cookies do we use?",
+    "3.1. Cookies strictement nécessaires": "3.1. Strictly necessary cookies",
+    "Ces cookies sont nécessaires au fonctionnement technique du site ou à la fourniture d’un service expressément demandé par l’utilisateur. Ils peuvent notamment permettre la gestion de la session, la sécurité du site, la mémorisation de certains paramètres essentiels ou la gestion du consentement.": "These cookies are necessary for the technical operation of the website or for providing a service expressly requested by the user. They may be used for session management, website security, remembering essential settings, or managing consent.",
+    "Ces cookies ne nécessitent pas de consentement lorsqu’ils sont strictement nécessaires au fonctionnement du service demandé.": "These cookies do not require consent when they are strictly necessary for the operation of the requested service.",
+    "3.2. Cookies de mesure d’audience": "3.2. Analytics cookies",
+    "Le site peut utiliser Google Analytics 4 afin de mesurer la fréquentation du site, de comprendre la manière dont les visiteurs utilisent les différentes pages et d’améliorer le contenu et le fonctionnement du site.": "The website may use Google Analytics 4 to measure website traffic, understand how visitors use the different pages, and improve the website's content and operation.",
+    "Lorsque ces cookies ne sont pas strictement nécessaires au fonctionnement du site, ils ne sont activés qu’après obtention de votre consentement.": "Where these cookies are not strictly necessary for the operation of the website, they are activated only after obtaining your consent.",
+    "3.3. Cookies et technologies liés aux services externes": "3.3. Cookies and technologies related to external services",
+    "Certaines fonctionnalités du site peuvent faire appel à des services externes, notamment Google Maps pour la cartographie et Microsoft Bookings pour la prise de rendez-vous.": "Certain website features may rely on external services, including Google Maps for mapping and Microsoft Bookings for appointment scheduling.",
+    "Ces services peuvent utiliser leurs propres cookies ou technologies similaires. Lorsqu’un consentement est requis, leur activation intervient conformément à vos préférences.": "These services may use their own cookies or similar technologies. Where consent is required, they are activated in accordance with your preferences.",
+    "4. Cookies et technologies utilisés sur le site": "4. Cookies and technologies used on the website",
+    "Le tableau ci-dessous présente les principales catégories de cookies ou technologies susceptibles d’être utilisées sur le site. La liste exacte peut évoluer en fonction des services et de leur configuration technique.": "The table below presents the main categories of cookies or technologies that may be used on the website. The exact list may change depending on the services used and their technical configuration.",
+    "Service ou cookie": "Service or cookie",
+    "Catégorie": "Category",
+    "Durée indicative": "Indicative duration",
+    "Mémorisation et gestion des préférences de consentement aux cookies.": "Storage and management of cookie consent preferences.",
+    "Strictement nécessaire": "Strictly necessary",
+    "Selon la configuration du service": "Depending on the service configuration",
+    "Mesure d’audience, statistiques de fréquentation et amélioration du site.": "Website analytics, traffic statistics and website improvement.",
+    "Mesure d’audience": "Analytics",
+    "Selon la configuration de Google Analytics": "Depending on the Google Analytics configuration",
+    "Affichage de cartes et localisation de l’étude.": "Displaying maps and locating the notarial office.",
+    "Service externe": "External service",
+    "Selon la configuration de Google": "Depending on Google's configuration",
+    "Gestion et fonctionnement de la prise de rendez-vous en ligne.": "Management and operation of online appointment scheduling.",
+    "La présence, le nom exact, la durée de conservation et le comportement des cookies peuvent varier en fonction de la configuration technique des services utilisés. Le Cabinet Dutrieux tient à jour cette politique en fonction de l’évolution de son site et de ses prestataires.": "The presence, exact name, retention period and behaviour of cookies may vary depending on the technical configuration of the services used. Cabinet Dutrieux keeps this policy up to date as its website and service providers evolve.",
+    "5. Google Analytics 4": "5. Google Analytics 4",
+    "Le site utilise Google Analytics 4, un service d’analyse statistique fourni par Google, afin de comprendre comment les visiteurs utilisent le site et d’améliorer ses performances et son contenu.": "The website uses Google Analytics 4, an analytics service provided by Google, to understand how visitors use the website and to improve its performance and content.",
+    "Les fonctionnalités de mesure d’audience qui nécessitent votre consentement sont activées uniquement après votre accord.": "Analytics features that require your consent are activated only after you have given your consent.",
+    "Google peut traiter certaines informations techniques et relatives à l’utilisation du site conformément à ses propres conditions et politiques de confidentialité.": "Google may process certain technical information and information relating to your use of the website in accordance with its own terms and privacy policies.",
+    "Pour plus d’informations, nous vous invitons à consulter les informations publiées par Google relatives à la protection des données et à Google Analytics.": "For more information, we invite you to consult the information published by Google regarding data protection and Google Analytics.",
+    "6. Google Maps": "6. Google Maps",
+    "Certaines pages du site peuvent intégrer Google Maps afin de permettre aux visiteurs de localiser le Cabinet Dutrieux.": "Certain pages of the website may integrate Google Maps to allow visitors to locate Cabinet Dutrieux.",
+    "L’utilisation de ce service peut entraîner la transmission de certaines informations techniques à Google et, selon la configuration du service, l’utilisation de cookies ou de technologies similaires.": "Using this service may result in the transmission of certain technical information to Google and, depending on the service configuration, the use of cookies or similar technologies.",
+    "Lorsque le chargement du service nécessite votre consentement, celui-ci n’est effectué qu’après votre accord.": "Where loading the service requires your consent, it is only loaded after you have given your consent.",
+    "7. Microsoft Bookings": "7. Microsoft Bookings",
+    "Le site peut utiliser Microsoft Bookings afin de permettre aux visiteurs de demander ou de gérer un rendez-vous avec l’étude.": "The website may use Microsoft Bookings to allow visitors to request or manage an appointment with the notarial office.",
+    "Lorsque la fonctionnalité de prise de rendez-vous est utilisée, les informations communiquées sont traitées dans le cadre de la gestion du rendez-vous et conformément à la Politique de confidentialité du Cabinet Dutrieux.": "When the appointment scheduling feature is used, the information provided is processed for appointment management purposes and in accordance with the Cabinet Dutrieux Privacy Policy.",
+    "Microsoft peut également utiliser certaines technologies nécessaires au fonctionnement de son service. Les modalités applicables dépendent de la configuration du service et des conditions de Microsoft.": "Microsoft may also use certain technologies necessary for the operation of its service. The applicable terms depend on the service configuration and Microsoft's terms.",
+    "8. Votre consentement": "8. Your consent",
+    "Lorsque votre consentement est requis, les cookies et technologies non strictement nécessaires ne doivent pas être installés ou utilisés avant que vous ayez exprimé un choix clair et positif.": "Where your consent is required, non-essential cookies and technologies must not be installed or used before you have expressed a clear and affirmative choice.",
+    "Le fait de poursuivre simplement votre navigation sur le site ne constitue pas un consentement.": "Simply continuing to browse the website does not constitute consent.",
+    "Vous pouvez accepter ou refuser les cookies nécessitant un consentement au moyen du bandeau de gestion des cookies affiché lors de votre première visite.": "You can accept or refuse cookies requiring consent using the cookie management banner displayed during your first visit.",
+    "Votre choix vous appartient :": "Your choice is yours:",
+    "le refus des cookies non nécessaires ne vous empêche pas d’accéder aux contenus essentiels du site. Certaines fonctionnalités fournies par des services externes peuvent toutefois ne pas être disponibles si vous refusez leur activation.": "refusing non-essential cookies does not prevent you from accessing the essential content of the website. However, certain features provided by external services may not be available if you refuse their activation.",
+    "9. Mémorisation de vos préférences": "9. Storage of your preferences",
+    "Le site mémorise votre choix concernant le consentement afin de ne pas vous présenter inutilement le même message à chaque changement de page ou à chaque visite.": "The website stores your consent choice so that the same message does not unnecessarily appear every time you change page or visit the website.",
+    "Cette mémorisation peut notamment utiliser le stockage local de votre navigateur ou une technologie équivalente dédiée à la conservation de votre préférence.": "This storage may use your browser's local storage or an equivalent technology dedicated to retaining your preference.",
+    "La mémorisation de votre choix de consentement ne constitue pas, en elle-même, un suivi de votre activité à des fins publicitaires.": "The storage of your consent choice does not, in itself, constitute tracking of your activity for advertising purposes.",
+    "10. Modifier ou retirer votre consentement": "10. Changing or withdrawing your consent",
+    "Vous pouvez retirer ou modifier votre consentement à tout moment lorsque le site met à votre disposition le mécanisme de gestion des préférences de cookies.": "You may withdraw or modify your consent at any time when the website provides a mechanism for managing your cookie preferences.",
+    "Le retrait du consentement n’affecte pas la licéité des traitements effectués avant ce retrait.": "Withdrawing consent does not affect the lawfulness of processing carried out before the withdrawal.",
+    "Le Cabinet Dutrieux veille à ce que le retrait du consentement soit aussi simple que son octroi.": "Cabinet Dutrieux ensures that withdrawing consent is as easy as giving it.",
+    "11. Gestion des cookies depuis votre navigateur": "11. Managing cookies through your browser",
+    "Vous pouvez également configurer votre navigateur afin de bloquer, supprimer ou limiter certains cookies.": "You can also configure your browser to block, delete or restrict certain cookies.",
+    "Les modalités de gestion des cookies varient selon le navigateur utilisé. La désactivation de certains cookies strictement nécessaires peut toutefois affecter le fonctionnement du site ou de certaines fonctionnalités.": "Cookie management options vary depending on the browser you use. Disabling certain strictly necessary cookies may affect the operation of the website or certain features.",
+    "12. Cookies et données à caractère personnel": "12. Cookies and personal data",
+    "Certains cookies peuvent permettre de collecter ou de générer des informations susceptibles d’être associées à un utilisateur ou à un appareil. Lorsqu’un traitement implique des données à caractère personnel, celui-ci est réalisé conformément aux exigences du RGPD et aux règles applicables en matière de protection des données.": "Certain cookies may allow information to be collected or generated that can be associated with a user or device. Where processing involves personal data, it is carried out in accordance with the requirements of the GDPR and applicable data protection rules.",
+    "Pour obtenir des informations complémentaires sur vos droits, les bases juridiques des traitements, les destinataires des données et les durées de conservation, veuillez consulter notre": "For further information about your rights, the legal bases for processing, data recipients and retention periods, please consult our",
+    "13. Services et sites de tiers": "13. Third-party services and websites",
+    "Certaines fonctionnalités du site reposent sur des services fournis par des sociétés tierces, notamment Google et Microsoft.": "Certain website features rely on services provided by third-party companies, including Google and Microsoft.",
+    "Ces sociétés peuvent appliquer leurs propres politiques de confidentialité, politiques relatives aux cookies et conditions d’utilisation. Le Cabinet Dutrieux ne contrôle pas les pratiques de confidentialité de ces prestataires au-delà des mesures qu’il met en œuvre dans le cadre de son propre site.": "These companies may apply their own privacy policies, cookie policies and terms of use. Cabinet Dutrieux does not control the privacy practices of these providers beyond the measures it implements for its own website.",
+    "14. Sécurité": "14. Security",
+    "Le Cabinet Dutrieux prend les mesures techniques et organisationnelles appropriées afin de limiter les risques liés à l’utilisation des cookies et technologies similaires et de protéger les informations traitées dans le cadre de son site.": "Cabinet Dutrieux takes appropriate technical and organisational measures to limit the risks associated with the use of cookies and similar technologies and to protect information processed through its website.",
+    "15. Mise à jour de la présente politique": "15. Updates to this policy",
+    "La présente politique relative aux cookies peut être mise à jour afin de tenir compte de l’évolution du site, des services utilisés, des technologies employées, de la réglementation ou des recommandations des autorités compétentes.": "This Cookie Policy may be updated to reflect changes to the website, the services used, the technologies employed, applicable regulations or recommendations from competent authorities.",
+    "La version la plus récente de cette politique est publiée sur cette page et indique sa date de dernière mise à jour.": "The most recent version of this policy is published on this page and indicates its date of last update.",
+    "16. Contact": "16. Contact",
+    "Pour toute question concernant l’utilisation des cookies ou la présente politique, vous pouvez contacter le Cabinet Dutrieux :": "For any questions regarding the use of cookies or this policy, you can contact Cabinet Dutrieux:",
+    "Informations complémentaires": "Additional information",
+    "Pour plus d’informations sur le traitement de vos données personnelles et l’exercice de vos droits, veuillez consulter notre": "For more information about the processing of your personal data and the exercise of your rights, please consult our",
+    "Dernière mise à jour : août 2026.": "Last updated: August 2026."
+
+
 
 }

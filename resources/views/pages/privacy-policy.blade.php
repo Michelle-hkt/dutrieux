@@ -1,6 +1,6 @@
 @extends('layouts.blogLayout')
 
-@section('title', 'Politique de confidentialité — Cabinet Dutrieux')
+@section('title', 'Cabinet Dutrieux')
 
 @section('content')
 
@@ -267,7 +267,6 @@
     }
 </style>
 
-
 <section class="privacy-page">
 
     <div class="privacy-container">
@@ -275,11 +274,12 @@
         <header class="privacy-header">
 
             <div class="privacy-eyebrow">
-                {{ __('Cabinet Dutrieux') }}
+                {{ __('CABINET DUTRIEUX SRL') }}
             </div>
 
             <h1 class="privacy-title">
-                {{ __('Politique de confidentialité') }}
+                
+                {{ __('Politique de confidentialité et de protection des données') }}
             </h1>
 
             <div class="privacy-divider"></div>
@@ -293,7 +293,7 @@
             <div class="privacy-introduction">
 
                 <p>
-                    {{ __('Le Cabinet Dutrieux, étude notariale établie en Belgique, accorde une importance particulière à la protection de vos données à caractère personnel et au respect de votre vie privée.') }}
+                    {{ __('Le Cabinet Dutrieux SRL, étude notariale établie en Belgique, accorde une importance particulière à la protection de vos données à caractère personnel et au respect de votre vie privée.') }}
                 </p>
 
                 <p>
@@ -322,35 +322,31 @@
                 <div class="privacy-contact">
 
                     <p>
-                        <strong>{{ __('Cabinet Dutrieux') }}</strong>
+                        <strong>{{ __('Cabinet Dutrieux SRL — Étude notariale de Maître Charles Yves Dutrieux') }}</strong>
                     </p>
 
                     <p>
-                        {{ __('Étude notariale') }}
+                        {{ __('Rue du Mail 1050 IXELLES CEDEX 4, Belgique') }}
                     </p>
 
                     <p>
-                        Rue du Mail 1050 Ixelles Belgique
-                    </p>
-
-                    <p>
-                        <strong>{{ __("Numéro d'entreprise :") }}</strong>
-                        +32 465 50 28 01
+                        <strong>{{ __("Numéro d'entreprise (BCE) :") }}</strong>
+                        {{ __('BE 0798.456.321') }}
                     </p>
 
                     <p>
                         <strong>{{ __('Téléphone :') }}</strong>
-                        +32 465 50 28 01
+                        {{ __('+32 465 502 801') }}
                     </p>
 
                     <p>
-                        <strong>{{ __('E-mail :') }}</strong>
-                        contact@cabinetdutrieux.be / maitre.dutrieux@gmail.com
+                        <strong>{{ __('E-mail général :') }}</strong>
+                        contact@cabinetdutrieux.be
                     </p>
 
                     <p>
                         <strong>{{ __('E-mail relatif à la protection des données :') }}</strong>
-                        contact@cabinetdutrieux.be / maitre.dutrieux@gmail.com
+                        contact@cabinetdutrieux.be
                     </p>
 
                 </div>
@@ -359,9 +355,22 @@
                     {{ __("Le Cabinet Dutrieux détermine les finalités et les moyens des traitements de données à caractère personnel réalisés dans le cadre de son activité.") }}
                 </p>
 
-                <p class="privacy-text">
-                    {{ __("Lorsque la réglementation applicable l'exige, le Cabinet Dutrieux fait appel à un délégué à la protection des données (DPO). Les coordonnées de celui-ci seront indiquées dans la présente politique lorsqu'elles sont applicables.") }}
-                </p>
+                <h3 class="privacy-subtitle">
+                    {{ __('1.1. Délégué à la protection des données (DPO)') }}
+                </h3>
+
+                <div class="privacy-contact">
+
+                    <p>
+                        <strong>{{ __('Sophie Lambert') }}</strong>
+                    </p>
+
+                    <p>
+                        <strong>{{ __('Contact :') }}</strong>
+                        contact@cabinetdutrieux.be
+                    </p>
+
+                </div>
 
             </section>
 
@@ -387,14 +396,14 @@
                 </p>
 
                 <ul class="privacy-list">
-                    <li>{{ __('nom et prénom ;') }}</li>
-                    <li>{{ __('adresse e-mail ;') }}</li>
-                    <li>{{ __('numéro de téléphone ;') }}</li>
-                    <li>{{ __('objet de votre demande ;') }}</li>
-                    <li>{{ __('contenu du message ;') }}</li>
-                    <li>{{ __('informations relatives à votre demande de rendez-vous ;') }}</li>
-                    <li>{{ __('date et heure souhaitées pour un rendez-vous ;') }}</li>
-                    <li>{{ __('toute autre information que vous choisissez volontairement de nous communiquer.') }}</li>
+                    <li>{{ __('nom et prénom') }}</li>
+                    <li>{{ __('adresse e-mail') }}</li>
+                    <li>{{ __('numéro de téléphone') }}</li>
+                    <li>{{ __('objet de votre demande') }}</li>
+                    <li>{{ __('contenu du message') }}</li>
+                    <li>{{ __('informations relatives à votre demande de rendez-vous') }}</li>
+                    <li>{{ __('date et heure souhaitées pour un rendez-vous') }}</li>
+                    <li>{{ __('toute autre information que vous choisissez volontairement de nous communiquer') }}</li>
                 </ul>
 
                 <p class="privacy-text">
@@ -410,19 +419,17 @@
                 </p>
 
                 <ul class="privacy-list">
-                    <li>{{ __("données d'identification ;") }}</li>
-                    <li>{{ __('coordonnées ;') }}</li>
-                    <li>{{ __("données relatives à l'état civil ;") }}</li>
-                    <li>{{ __('données relatives à la situation familiale ;') }}</li>
-                    <li>{{ __('données relatives à la capacité juridique des personnes ;') }}</li>
-                    <li>{{ __('données patrimoniales ;') }}</li>
-                    <li>{{ __('données immobilières ;') }}</li>
-                    <li>{{ __('données financières et fiscales ;') }}</li>
-                    <li>{{ __('données professionnelles ;') }}</li>
-                    <li>{{ __('données relatives aux sociétés et à leurs représentants ;') }}</li>
-                    <li>{{ __('données relatives aux testaments, successions et donations ;') }}</li>
-                    <li>{{ __('données contenues dans les actes et documents notariés ;') }}</li>
-                    <li>{{ __("toute autre donnée nécessaire à l'accomplissement d'une mission notariale.") }}</li>
+                    <li>{{ __("données d'identification") }}</li>
+                    <li>{{ __('coordonnées') }}</li>
+                    <li>{{ __("données relatives à l'état civil") }}</li>
+                    <li>{{ __('données relatives à la situation familiale') }}</li>
+                    <li>{{ __('données relatives à la capacité juridique des personnes') }}</li>
+                    <li>{{ __('données patrimoniales, immobilières, financières et fiscales') }}</li>
+                    <li>{{ __('données professionnelles') }}</li>
+                    <li>{{ __('données relatives aux sociétés et à leurs représentants') }}</li>
+                    <li>{{ __('données relatives aux testaments, successions et donations') }}</li>
+                    <li>{{ __('données contenues dans les actes et documents notariés') }}</li>
+                    <li>{{ __("toute autre donnée nécessaire à l'accomplissement d'une mission notariale") }}</li>
                 </ul>
 
                 <p class="privacy-text">
@@ -440,24 +447,16 @@
                     {{ __('3. Dans quelles situations collectons-nous vos données ?') }}
                 </h2>
 
-                <p class="privacy-text">
-                    {{ __('Vos données peuvent notamment être collectées lorsque :') }}
-                </p>
-
                 <ul class="privacy-list">
-                    <li>{{ __('vous utilisez le formulaire de contact du site ;') }}</li>
-                    <li>{{ __('vous demandez un rendez-vous ;') }}</li>
-                    <li>{{ __("vous correspondez avec l'étude par e-mail, téléphone ou courrier ;") }}</li>
-                    <li>{{ __('vous confiez un dossier au Cabinet Dutrieux ;') }}</li>
-                    <li>{{ __('vous participez à une opération ou à un acte notarié ;') }}</li>
-                    <li>{{ __("vous êtes partie ou intervenant dans un dossier traité par l'étude ;") }}</li>
-                    <li>{{ __('vous nous fournissez volontairement des documents ou informations nécessaires au traitement de votre dossier ;') }}</li>
-                    <li>{{ __('nous devons obtenir certaines informations auprès de sources authentiques, d’administrations ou de professionnels habilités, conformément à la législation applicable.') }}</li>
+                    <li>{{ __('vous utilisez le formulaire de contact du site') }}</li>
+                    <li>{{ __('vous demandez un rendez-vous') }}</li>
+                    <li>{{ __("vous correspondez avec l'étude par e-mail, téléphone ou courrier") }}</li>
+                    <li>{{ __('vous confiez un dossier au Cabinet Dutrieux') }}</li>
+                    <li>{{ __('vous participez à une opération ou à un acte notarié') }}</li>
+                    <li>{{ __("vous êtes partie ou intervenant dans un dossier traité par l'étude") }}</li>
+                    <li>{{ __('vous nous fournissez volontairement des documents ou informations nécessaires au traitement de votre dossier') }}</li>
+                    <li>{{ __("nous devons obtenir certaines informations auprès de sources authentiques, d'administrations ou de professionnels habilités, conformément à la législation applicable") }}</li>
                 </ul>
-
-                <p class="privacy-text">
-                    {{ __('Dans le cadre de ses missions notariales, le notaire peut être légalement autorisé ou tenu de recueillir certaines informations auprès de sources officielles et d’administrations.') }}
-                </p>
 
             </section>
 
@@ -470,19 +469,15 @@
                     {{ __('4. Pourquoi utilisons-nous vos données ?') }}
                 </h2>
 
-                <p class="privacy-text">
-                    {{ __('Vos données sont traitées uniquement pour des finalités déterminées, explicites et légitimes.') }}
-                </p>
-
                 <h3 class="privacy-subtitle">
                     {{ __('4.1. Répondre à vos demandes') }}
                 </h3>
 
                 <ul class="privacy-list">
-                    <li>{{ __('répondre à votre demande ;') }}</li>
-                    <li>{{ __('vous recontacter ;') }}</li>
-                    <li>{{ __('vous fournir les informations demandées ;') }}</li>
-                    <li>{{ __('identifier le service ou le collaborateur compétent.') }}</li>
+                    <li>{{ __('répondre à votre demande') }}</li>
+                    <li>{{ __('vous recontacter') }}</li>
+                    <li>{{ __('vous fournir les informations demandées') }}</li>
+                    <li>{{ __('identifier le service ou le collaborateur compétent') }}</li>
                 </ul>
 
                 <h3 class="privacy-subtitle">
@@ -490,11 +485,10 @@
                 </h3>
 
                 <ul class="privacy-list">
-                    <li>{{ __('enregistrer votre demande ;') }}</li>
-                    <li>{{ __('vérifier les disponibilités ;') }}</li>
-                    <li>{{ __('organiser le rendez-vous ;') }}</li>
-                    <li>{{ __('vous confirmer ou modifier celui-ci ;') }}</li>
-                    <li>{{ __('vous contacter en cas de changement ou de nécessité liée au rendez-vous.') }}</li>
+                    <li>{{ __('enregistrer votre demande') }}</li>
+                    <li>{{ __('vérifier les disponibilités') }}</li>
+                    <li>{{ __('organiser, confirmer ou modifier le rendez-vous') }}</li>
+                    <li>{{ __('vous contacter en cas de changement ou de nécessité liée au rendez-vous') }}</li>
                 </ul>
 
                 <h3 class="privacy-subtitle">
@@ -502,14 +496,13 @@
                 </h3>
 
                 <ul class="privacy-list">
-                    <li>{{ __('analyser votre situation ;') }}</li>
-                    <li>{{ __('vous conseiller dans le cadre de la mission confiée ;') }}</li>
-                    <li>{{ __('préparer les documents nécessaires ;') }}</li>
-                    <li>{{ __('rédiger et recevoir les actes notariés ;') }}</li>
-                    <li>{{ __('accomplir les formalités légales et administratives ;') }}</li>
-                    <li>{{ __('communiquer avec les parties, professionnels et autorités concernés ;') }}</li>
-                    <li>{{ __('assurer le suivi administratif, juridique et financier du dossier ;') }}</li>
-                    <li>{{ __('respecter les obligations légales et réglementaires applicables au notariat.') }}</li>
+                    <li>{{ __('analyser votre situation et vous conseiller') }}</li>
+                    <li>{{ __('préparer les documents nécessaires') }}</li>
+                    <li>{{ __('rédiger et recevoir les actes notariés') }}</li>
+                    <li>{{ __('accomplir les formalités légales et administratives') }}</li>
+                    <li>{{ __('communiquer avec les parties, professionnels et autorités concernés') }}</li>
+                    <li>{{ __('assurer le suivi administratif, juridique et financier du dossier') }}</li>
+                    <li>{{ __('respecter les obligations légales et réglementaires applicables au notariat') }}</li>
                 </ul>
 
                 <h3 class="privacy-subtitle">
@@ -517,11 +510,7 @@
                 </h3>
 
                 <p class="privacy-text">
-                    {{ __('Certaines données doivent être traitées afin de respecter les obligations légales et réglementaires auxquelles le notaire est soumis.') }}
-                </p>
-
-                <p class="privacy-text">
-                    {{ __("Cela peut notamment concerner les obligations relatives à l'identification des parties, à la lutte contre le blanchiment de capitaux, aux obligations fiscales, aux formalités administratives et aux différentes obligations propres à l'activité notariale.") }}
+                    {{ __("Certaines données doivent être traitées afin de respecter les obligations légales et réglementaires auxquelles le notaire est soumis, notamment celles relatives à l'identification des parties, à la lutte contre le blanchiment de capitaux, aux obligations fiscales, aux formalités administratives et aux différentes obligations propres à l'activité notariale.") }}
                 </p>
 
             </section>
@@ -535,35 +524,12 @@
                     {{ __('5. Sur quelles bases légales traitons-nous vos données ?') }}
                 </h2>
 
-                <p class="privacy-text">
-                    {{ __('Selon le contexte, le traitement de vos données peut reposer sur différentes bases juridiques prévues par le RGPD.') }}
-                </p>
-
                 <ul class="privacy-list">
-                    <li>
-                        <strong>{{ __("l'exécution de mesures précontractuelles ou d'un contrat") }}</strong>,
-                        {{ __('lorsque vous nous contactez afin de préparer une prestation ou lorsque vous nous confiez une mission ;') }}
-                    </li>
-
-                    <li>
-                        <strong>{{ __("le respect d'une obligation légale") }}</strong>,
-                        {{ __('lorsque le traitement est imposé par la législation applicable ;') }}
-                    </li>
-
-                    <li>
-                        <strong>{{ __("l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique") }}</strong>,
-                        {{ __('lorsque cela est applicable aux missions notariales ;') }}
-                    </li>
-
-                    <li>
-                        <strong>{{ __("l'intérêt légitime") }}</strong>,
-                        {{ __('lorsque celui-ci constitue une base juridique appropriée et que vos droits et libertés ne prévalent pas ;') }}
-                    </li>
-
-                    <li>
-                        <strong>{{ __('votre consentement') }}</strong>,
-                        {{ __('lorsque celui-ci est juridiquement requis.') }}
-                    </li>
+                    <li>{{ __("l'exécution de mesures précontractuelles ou d'un contrat") }}</li>
+                    <li>{{ __("le respect d'une obligation légale") }}</li>
+                    <li>{{ __("l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique") }}</li>
+                    <li>{{ __("l'intérêt légitime, lorsque vos droits et libertés ne prévalent pas") }}</li>
+                    <li>{{ __('votre consentement, lorsque celui-ci est juridiquement requis') }}</li>
                 </ul>
 
             </section>
@@ -578,20 +544,8 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __('Certaines informations sont indispensables pour permettre au Cabinet Dutrieux de répondre à votre demande ou d’accomplir une mission notariale.') }}
+                    {{ __('Certaines informations sont indispensables pour permettre au Cabinet Dutrieux de répondre à votre demande ou d’accomplir une mission notariale. Leur absence peut empêcher l’étude de traiter votre demande, de vous proposer un rendez-vous, d’ouvrir ou de traiter un dossier, d’établir certains documents ou actes, ou d’accomplir les formalités nécessaires.') }}
                 </p>
-
-                <p class="privacy-text">
-                    {{ __("Lorsque certaines données sont nécessaires à l'accomplissement d'une obligation légale ou à l'exécution d'une mission, leur absence peut empêcher l'étude :") }}
-                </p>
-
-                <ul class="privacy-list">
-                    <li>{{ __('de traiter votre demande ;') }}</li>
-                    <li>{{ __('de vous proposer un rendez-vous ;') }}</li>
-                    <li>{{ __("d'ouvrir ou de traiter un dossier ;") }}</li>
-                    <li>{{ __("d'établir certains documents ou actes ;") }}</li>
-                    <li>{{ __('d’accomplir les formalités nécessaires.') }}</li>
-                </ul>
 
                 <p class="privacy-text">
                     {{ __('Lorsque vous utilisez un formulaire du site, seuls les champs nécessaires à son fonctionnement sont demandés comme obligatoires.') }}
@@ -609,28 +563,20 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __('Le Cabinet Dutrieux ne vend ni ne loue vos données personnelles.') }}
-                </p>
-
-                <p class="privacy-text">
-                    {{ __('Selon la nature du dossier et uniquement lorsque cela est nécessaire ou légalement requis, certaines données peuvent être communiquées à des destinataires habilités, notamment :') }}
+                    {{ __('Le Cabinet Dutrieux ne vend ni ne loue vos données personnelles. Selon la nature du dossier et uniquement lorsque cela est nécessaire ou légalement requis, certaines données peuvent être communiquées à :') }}
                 </p>
 
                 <ul class="privacy-list">
-                    <li>{{ __('administrations publiques ;') }}</li>
-                    <li>{{ __('autorités judiciaires ou administratives ;') }}</li>
-                    <li>{{ __('services fiscaux ;') }}</li>
-                    <li>{{ __('organismes ou institutions compétents dans le cadre des missions notariales ;') }}</li>
-                    <li>{{ __('autres notaires lorsque cela est nécessaire à l’accomplissement d’une opération ;') }}</li>
-                    <li>{{ __('banques et établissements financiers lorsque cela est nécessaire au dossier ;') }}</li>
-                    <li>{{ __('avocats, experts, comptables ou autres professionnels intervenant dans le dossier ;') }}</li>
-                    <li>{{ __('prestataires techniques agissant pour le compte de l’étude ;') }}</li>
-                    <li>{{ __('autres parties concernées par une opération notariale, dans les limites de ce qui est nécessaire et autorisé.') }}</li>
+                    <li>{{ __('administrations publiques') }}</li>
+                    <li>{{ __('autorités judiciaires ou administratives') }}</li>
+                    <li>{{ __('services fiscaux') }}</li>
+                    <li>{{ __('organismes ou institutions compétents dans le cadre des missions notariales') }}</li>
+                    <li>{{ __("autres notaires lorsque cela est nécessaire à l'accomplissement d'une opération") }}</li>
+                    <li>{{ __('banques et établissements financiers lorsque cela est nécessaire au dossier') }}</li>
+                    <li>{{ __('avocats, experts, comptables ou autres professionnels intervenant dans le dossier') }}</li>
+                    <li>{{ __("prestataires techniques agissant pour le compte de l'étude") }}</li>
+                    <li>{{ __('autres parties concernées par une opération notariale, dans les limites de ce qui est nécessaire et autorisé') }}</li>
                 </ul>
-
-                <p class="privacy-text">
-                    {{ __("Ces communications ne sont effectuées que lorsqu'elles sont nécessaires à l'accomplissement des missions du Cabinet Dutrieux, à l'exécution d'une obligation légale ou lorsque vous les avez autorisées lorsque cette autorisation est nécessaire.") }}
-                </p>
 
             </section>
 
@@ -644,16 +590,16 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __('Le Cabinet Dutrieux peut faire appel à des prestataires externes pour certaines fonctions techniques ou administratives, par exemple :') }}
+                    {{ __('Le Cabinet Dutrieux fait appel à des prestataires externes pour certaines fonctions techniques ou administratives, notamment :') }}
                 </p>
 
                 <ul class="privacy-list">
-                    <li>{{ __('hébergement du site internet ;') }}</li>
-                    <li>{{ __('gestion et sécurisation des systèmes informatiques ;') }}</li>
-                    <li>{{ __('messagerie électronique ;') }}</li>
-                    <li>{{ __('maintenance informatique ;') }}</li>
-                    <li>{{ __('outils de gestion des rendez-vous ;') }}</li>
-                    <li>{{ __('services nécessaires au fonctionnement du site.') }}</li>
+                    <li>{{ __('Hébergement du site internet : bifycloud') }}</li>
+                    <li>{{ __('Gestion des rendez-vous en ligne : Microsoft Bookings') }}</li>
+                    <li>{{ __('Affichage cartographique : Google Maps') }}</li>
+                    <li>{{ __('Mesure d’audience : Google Analytics') }}</li>
+                    <li>{{ __('Gestion du consentement aux cookies : CookieYes') }}</li>
+                    <li>{{ __('Messagerie électronique et sécurisation des systèmes informatiques') }}</li>
                 </ul>
 
                 <p class="privacy-text">
@@ -676,7 +622,7 @@
                 </p>
 
                 <p class="privacy-text">
-                    {{ __("Lorsque l'utilisation d'un prestataire implique un transfert de données vers un pays situé en dehors de l'Espace économique européen, le Cabinet Dutrieux veille à ce que ce transfert soit effectué conformément au RGPD et qu'un mécanisme juridique approprié garantisse un niveau de protection adéquat.") }}
+                    {{ __("Lorsque l'utilisation d'un prestataire (par exemple Google ou Microsoft) implique un transfert de données vers un pays situé en dehors de l'EEE, le Cabinet Dutrieux veille à ce que ce transfert soit effectué conformément au RGPD et qu'un mécanisme juridique approprié (clauses contractuelles types notamment) garantisse un niveau de protection adéquat.") }}
                 </p>
 
             </section>
@@ -691,16 +637,149 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __('La durée de conservation dépend de la nature des données et de la finalité du traitement.') }}
+                    {{ __('La durée de conservation dépend de la nature des données et de la finalité du traitement :') }}
                 </p>
 
-                <p class="privacy-text">
-                    {{ __('Les données relatives aux demandes de contact ou de rendez-vous sont conservées pendant la durée nécessaire à leur traitement et, lorsque cela est justifié, pendant une durée supplémentaire nécessaire à la gestion administrative ou à la défense des droits du cabinet.') }}
-                </p>
+                <div style="overflow-x: auto; margin: 25px 0;">
 
-                <p class="privacy-text">
-                    {{ __('Les données relatives aux dossiers notariaux peuvent, quant à elles, être conservées pendant les durées imposées ou autorisées par les dispositions légales et réglementaires applicables à la profession notariale.') }}
-                </p>
+                    <table style="width: 100%; border-collapse: collapse; font-family: Arial, Helvetica, sans-serif; font-size: 0.88rem; color: #63565a;">
+
+                        <thead>
+                            <tr>
+                                <th style="text-align: left; padding: 14px 12px; background-color: #f7f5f5; color: #30292b; border-bottom: 1px solid #e5d9db;">
+                                    {{ __('Catégorie de données') }}
+                                </th>
+
+                                <th style="text-align: left; padding: 14px 12px; background-color: #f7f5f5; color: #30292b; border-bottom: 1px solid #e5d9db;">
+                                    {{ __('Durée de conservation') }}
+                                </th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Formulaire de contact sans ouverture de dossier') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('12 mois après le dernier échange') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Demandes de rendez-vous sans ouverture de dossier') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('12 mois') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Données relatives aux prospects') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('3 ans à compter du dernier contact') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Données relatives aux clients et aux dossiers notariaux') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Durée nécessaire au traitement du dossier, puis selon les obligations légales et archivistiques applicables au notariat') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Actes et documents notariaux') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Selon les obligations légales et archivistiques applicables aux actes et dossiers notariaux') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Factures et pièces comptables') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('10 ans') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Documents nécessaires aux obligations fiscales') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Selon les délais légaux applicables') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Correspondances électroniques relatives à un dossier') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __("Durée du dossier, puis selon les obligations d'archivage applicables") }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Candidatures') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('6 mois après la fin du processus de recrutement, sauf accord pour une conservation plus longue') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Journaux techniques et logs de sécurité') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('12 mois') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Données statistiques Google Analytics') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('14 mois') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Preuves et préférences de consentement cookies') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('13 mois') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px;">
+                                    {{ __('Demandes d’exercice des droits RGPD') }}
+                                </td>
+                                <td style="padding: 12px;">
+                                    {{ __('5 ans après clôture de la demande') }}
+                                </td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
 
                 <p class="privacy-text">
                     {{ __("En raison de la nature particulière des actes et dossiers notariaux, certaines données doivent être conservées pendant des périodes importantes afin de respecter les obligations légales, d'assurer la conservation des actes et de permettre l'exercice des droits des personnes concernées.") }}
@@ -718,32 +797,24 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __('Le Cabinet Dutrieux met en œuvre des mesures techniques et organisationnelles destinées à protéger les données personnelles contre :') }}
+                    {{ __("Le Cabinet Dutrieux met en œuvre des mesures techniques et organisationnelles destinées à protéger les données personnelles contre l'accès non autorisé, la perte, la destruction, l'altération, la divulgation non autorisée ou toute autre forme de traitement illicite, notamment :") }}
                 </p>
 
                 <ul class="privacy-list">
-                    <li>{{ __('l’accès non autorisé ;') }}</li>
-                    <li>{{ __('la perte ;') }}</li>
-                    <li>{{ __('la destruction ;') }}</li>
-                    <li>{{ __("l'altération ;") }}</li>
-                    <li>{{ __('la divulgation non autorisée ;') }}</li>
-                    <li>{{ __('toute autre forme de traitement illicite.') }}</li>
+                    <li>{{ __("limitation des accès aux données et gestion des droits d'accès") }}</li>
+                    <li>{{ __('authentification des utilisateurs') }}</li>
+                    <li>{{ __('sécurisation des systèmes informatiques et des communications électroniques') }}</li>
+                    <li>{{ __('sauvegarde régulière des données') }}</li>
+                    <li>{{ __('sensibilisation des collaborateurs à la confidentialité') }}</li>
                 </ul>
+
+                <h3 class="privacy-subtitle">
+                    {{ __('11.1. En cas de violation de données') }}
+                </h3>
 
                 <p class="privacy-text">
-                    {{ __('Ces mesures peuvent notamment comprendre :') }}
+                    {{ __("En cas de violation de données à caractère personnel susceptible d'engendrer un risque pour les droits et libertés des personnes concernées, le Cabinet Dutrieux notifiera cette violation à l'Autorité de protection des données dans les délais prévus par le RGPD et, lorsque le risque est élevé, en informera les personnes concernées.") }}
                 </p>
-
-                <ul class="privacy-list">
-                    <li>{{ __('la limitation des accès aux données ;') }}</li>
-                    <li>{{ __("l'authentification des utilisateurs ;") }}</li>
-                    <li>{{ __('la gestion des droits d’accès ;') }}</li>
-                    <li>{{ __('la sécurisation des systèmes informatiques ;') }}</li>
-                    <li>{{ __('la sauvegarde des données ;') }}</li>
-                    <li>{{ __('la sécurisation des communications électroniques ;') }}</li>
-                    <li>{{ __('la sensibilisation des collaborateurs à la confidentialité ;') }}</li>
-                    <li>{{ __('des mesures de protection contre les accès non autorisés.') }}</li>
-                </ul>
 
             </section>
 
@@ -757,19 +828,11 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __("La confidentialité constitue un principe essentiel de l'activité notariale.") }}
-                </p>
-
-                <p class="privacy-text">
-                    {{ __('Les informations auxquelles le notaire a accès dans le cadre de ses fonctions peuvent être soumises au secret professionnel ou au devoir de discrétion conformément aux règles applicables à la profession notariale.') }}
+                    {{ __("La confidentialité constitue un principe essentiel de l'activité notariale. Les informations auxquelles le notaire a accès dans le cadre de ses fonctions peuvent être soumises au secret professionnel ou au devoir de discrétion conformément aux règles applicables à la profession notariale.") }}
                 </p>
 
                 <p class="privacy-text">
                     {{ __("Le notaire est notamment tenu à un devoir de discrétion qui limite la communication d'informations à des tiers, sauf lorsque cette communication est nécessaire ou utile à l'opération dont il est chargé ou lorsqu'une disposition légale l'autorise ou l'impose.") }}
-                </p>
-
-                <p class="privacy-text">
-                    {{ __('La protection des données personnelles s’inscrit ainsi dans un cadre plus large comprenant les obligations professionnelles, légales et déontologiques propres au notariat.') }}
                 </p>
 
             </section>
@@ -783,40 +846,32 @@
                     {{ __('13. Vos droits') }}
                 </h2>
 
-                <p class="privacy-text">
-                    {{ __('Conformément au RGPD, vous disposez, selon les circonstances et sous réserve des limitations prévues par la loi, de différents droits concernant vos données personnelles.') }}
-                </p>
-
                 <h3 class="privacy-subtitle">
-                    {{ __("D'un droit d'accès") }}
+                    {{ __("Droit d'accès") }}
                 </h3>
 
                 <p class="privacy-text">
-                    {{ __('Vous pouvez demander à savoir si vos données personnelles sont traitées et, dans certaines conditions, obtenir une copie des données vous concernant ainsi que certaines informations sur leur traitement.') }}
+                    {{ __('Vous pouvez demander à savoir si vos données personnelles sont traitées et, dans certaines conditions, obtenir une copie des données vous concernant.') }}
                 </p>
 
                 <h3 class="privacy-subtitle">
-                    {{ __('D’un droit de rectification') }}
+                    {{ __('Droit de rectification') }}
                 </h3>
 
                 <p class="privacy-text">
-                    {{ __("Vous pouvez demander la correction de données personnelles inexactes ou leur complément lorsqu'elles sont incomplètes." ) }}
+                    {{ __("Vous pouvez demander la correction de données inexactes ou leur complément lorsqu'elles sont incomplètes.") }}
                 </p>
 
                 <h3 class="privacy-subtitle">
-                    {{ __("D'un droit à l'effacement") }}
+                    {{ __("Droit à l'effacement") }}
                 </h3>
 
                 <p class="privacy-text">
-                    {{ __('Vous pouvez, dans certaines situations prévues par le RGPD, demander l’effacement de vos données.') }}
-                </p>
-
-                <p class="privacy-text">
-                    {{ __("Ce droit n'est toutefois pas absolu. Certaines données doivent notamment être conservées lorsque leur conservation est imposée par une obligation légale ou nécessaire à l'exercice des missions notariales.") }}
+                    {{ __("Vous pouvez, dans certaines situations prévues par le RGPD, demander l'effacement de vos données. Ce droit n'est toutefois pas absolu : certaines données doivent être conservées lorsque leur conservation est imposée par une obligation légale ou nécessaire à l'exercice des missions notariales.") }}
                 </p>
 
                 <h3 class="privacy-subtitle">
-                    {{ __('D’un droit à la limitation du traitement') }}
+                    {{ __('Droit à la limitation du traitement') }}
                 </h3>
 
                 <p class="privacy-text">
@@ -824,7 +879,7 @@
                 </p>
 
                 <h3 class="privacy-subtitle">
-                    {{ __("D'un droit d'opposition") }}
+                    {{ __("Droit d'opposition") }}
                 </h3>
 
                 <p class="privacy-text">
@@ -832,23 +887,19 @@
                 </p>
 
                 <h3 class="privacy-subtitle">
-                    {{ __('D’un droit à la portabilité') }}
+                    {{ __('Droit à la portabilité') }}
                 </h3>
 
                 <p class="privacy-text">
-                    {{ __('Lorsque les conditions prévues par le RGPD sont réunies, vous pouvez recevoir certaines données personnelles dans un format structuré, couramment utilisé et lisible par machine, ou demander leur transmission à un autre responsable du traitement.') }}
+                    {{ __('Lorsque les conditions prévues par le RGPD sont réunies, vous pouvez recevoir certaines données dans un format structuré et lisible par machine, ou demander leur transmission à un autre responsable du traitement.') }}
                 </p>
 
                 <h3 class="privacy-subtitle">
-                    {{ __('D’un droit de retirer votre consentement') }}
+                    {{ __('Droit de retirer votre consentement') }}
                 </h3>
 
                 <p class="privacy-text">
-                    {{ __('Lorsque le traitement repose sur votre consentement, vous pouvez retirer celui-ci à tout moment.') }}
-                </p>
-
-                <p class="privacy-text">
-                    {{ __("Le retrait du consentement n'affecte pas la licéité des traitements effectués avant ce retrait.") }}
+                    {{ __('Lorsque le traitement repose sur votre consentement, vous pouvez le retirer à tout moment, sans que cela n’affecte la licéité des traitements effectués avant ce retrait.') }}
                 </p>
 
             </section>
@@ -863,22 +914,22 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __('Pour exercer vos droits ou obtenir des informations complémentaires concernant le traitement de vos données, vous pouvez contacter le Cabinet Dutrieux :') }}
+                    {{ __('Pour exercer vos droits ou obtenir des informations complémentaires, vous pouvez contacter le Cabinet Dutrieux :') }}
                 </p>
 
                 <div class="privacy-contact">
 
                     <p>
-                        <strong>{{ __('Cabinet Dutrieux') }}</strong>
+                        <strong>{{ __('Cabinet Dutrieux SRL — Étude notariale de Maître Charles Yves Dutrieux') }}</strong>
                     </p>
 
                     <p>
-                        Rue du Mail 1050 Ixelles Belgique
+                        {{ __('Rue du Mail 1050 IXELLES CEDEX 4, Belgique') }}
                     </p>
 
                     <p>
                         <strong>{{ __('E-mail :') }}</strong>
-                        contact@cabinetdutrieux.be / maitre.dutrieux@gmail.com
+                        contact@cabinetdutrieux.be
                     </p>
 
                 </div>
@@ -888,7 +939,7 @@
                 </p>
 
                 <p class="privacy-text">
-                    {{ __('Le Cabinet Dutrieux traitera votre demande conformément aux délais et conditions prévus par le RGPD et les dispositions légales applicables.') }}
+                    {{ __("Le Cabinet Dutrieux traitera votre demande dans un délai d'un mois à compter de sa réception, conformément aux délais et conditions prévus par le RGPD, ce délai pouvant être prolongé de deux mois supplémentaires en cas de demande complexe.") }}
                 </p>
 
             </section>
@@ -903,11 +954,7 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __('Si vous estimez que le traitement de vos données personnelles ne respecte pas les règles applicables en matière de protection des données, vous pouvez contacter le Cabinet Dutrieux afin de rechercher une solution.') }}
-                </p>
-
-                <p class="privacy-text">
-                    {{ __('Vous disposez également du droit d’introduire une réclamation auprès de l’autorité de contrôle compétente en Belgique :') }}
+                    {{ __("Si vous estimez que le traitement de vos données personnelles ne respecte pas les règles applicables, vous pouvez contacter le Cabinet Dutrieux afin de rechercher une solution. Vous disposez également du droit d'introduire une réclamation auprès de l'autorité de contrôle compétente en Belgique :") }}
                 </p>
 
                 <div class="privacy-contact">
@@ -918,6 +965,7 @@
 
                     <p>
                         <strong>{{ __('Site officiel :') }}</strong>
+
                         <a
                             href="https://www.autoriteprotectiondonnees.be"
                             target="_blank"
@@ -929,10 +977,6 @@
                     </p>
 
                 </div>
-
-                <p class="privacy-text">
-                    {{ __('L’Autorité de protection des données constitue l’autorité belge compétente en matière de protection des données à caractère personnel.') }}
-                </p>
 
             </section>
 
@@ -946,22 +990,123 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __('Le site internet du Cabinet Dutrieux peut utiliser des cookies ou technologies similaires nécessaires à son fonctionnement.') }}
+                    {{ __('Le site internet du Cabinet Dutrieux utilise des cookies ou technologies similaires afin d’assurer son fonctionnement technique, de mémoriser certaines préférences, d’améliorer la sécurité et d’établir des statistiques de fréquentation. Lorsque certains cookies nécessitent votre consentement, celui-ci est recueilli via notre bandeau de gestion des cookies (CookieYes) conformément à la réglementation applicable.') }}
                 </p>
 
-                <p class="privacy-text">
-                    {{ __('Les cookies peuvent notamment être utilisés afin :') }}
-                </p>
+                <div style="overflow-x: auto; margin: 25px 0;">
 
-                <ul class="privacy-list">
-                    <li>{{ __('d’assurer le fonctionnement technique du site ;') }}</li>
-                    <li>{{ __('de mémoriser certaines préférences ;') }}</li>
-                    <li>{{ __('d’améliorer la sécurité ;') }}</li>
-                    <li>{{ __('d’établir des statistiques de fréquentation lorsque cela est applicable.') }}</li>
-                </ul>
+                    <table style="width: 100%; border-collapse: collapse; font-family: Arial, Helvetica, sans-serif; font-size: 0.88rem; color: #63565a;">
+
+                        <thead>
+                            <tr>
+                                <th style="text-align: left; padding: 14px 12px; background-color: #f7f5f5; color: #30292b; border-bottom: 1px solid #e5d9db;">
+                                    {{ __('Cookie') }}
+                                </th>
+
+                                <th style="text-align: left; padding: 14px 12px; background-color: #f7f5f5; color: #30292b; border-bottom: 1px solid #e5d9db;">
+                                    {{ __('Finalité') }}
+                                </th>
+
+                                <th style="text-align: left; padding: 14px 12px; background-color: #f7f5f5; color: #30292b; border-bottom: 1px solid #e5d9db;">
+                                    {{ __('Durée de conservation') }}
+                                </th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    cookieyes-consent
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __("Enregistrement des préférences de consentement de l'utilisateur") }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('1 an') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    _ga
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Analyse statistique et distinction des utilisateurs') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('2 ans') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    _ga_*
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Maintien de l’état de session Google Analytics') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('2 ans') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    _gid
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Distinction des utilisateurs à des fins statistiques') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('24 heures') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    _gat
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Limitation du nombre de requêtes adressées à Google Analytics') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('1 minute') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Cookies Microsoft Bookings') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Fonctionnement et gestion des rendez-vous') }}
+                                </td>
+                                <td style="padding: 12px; border-bottom: 1px solid #eee3e4;">
+                                    {{ __('Durée de session ou selon configuration du service') }}
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td style="padding: 12px;">
+                                    {{ __('Cookies Google Maps') }}
+                                </td>
+                                <td style="padding: 12px;">
+                                    {{ __('Fonctionnement et affichage de la carte') }}
+                                </td>
+                                <td style="padding: 12px;">
+                                    {{ __('Selon la configuration Google et le consentement de l’utilisateur') }}
+                                </td>
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
 
                 <p class="privacy-text">
-                    {{ __('Lorsque certains cookies nécessitent votre consentement, celui-ci sera recueilli conformément à la réglementation applicable.') }}
+                    {{ __('Vous pouvez à tout moment modifier vos préférences de cookies via le bandeau de consentement accessible sur le site.') }}
                 </p>
 
             </section>
@@ -979,27 +1124,25 @@
                     {{ __('Les informations communiquées via les formulaires du site sont destinées au Cabinet Dutrieux et sont utilisées uniquement dans la mesure nécessaire pour traiter votre demande.') }}
                 </p>
 
-                <p class="privacy-text">
-                    {{ __("Le formulaire de contact peut notamment permettre à l'étude de recevoir :") }}
-                </p>
+                <h3 class="privacy-subtitle">
+                    {{ __('Formulaire de contact') }}
+                </h3>
 
                 <ul class="privacy-list">
-                    <li>{{ __('votre identité ;') }}</li>
-                    <li>{{ __('vos coordonnées ;') }}</li>
-                    <li>{{ __('votre message ;') }}</li>
-                    <li>{{ __('les informations nécessaires pour vous répondre.') }}</li>
+                    <li>{{ __('votre identité') }}</li>
+                    <li>{{ __('vos coordonnées') }}</li>
+                    <li>{{ __('votre message et les informations nécessaires pour vous répondre') }}</li>
                 </ul>
 
-                <p class="privacy-text">
-                    {{ __("Le formulaire de rendez-vous peut notamment permettre à l'étude de recevoir :") }}
-                </p>
+                <h3 class="privacy-subtitle">
+                    {{ __('Formulaire de rendez-vous') }}
+                </h3>
 
                 <ul class="privacy-list">
-                    <li>{{ __('votre identité ;') }}</li>
-                    <li>{{ __('vos coordonnées ;') }}</li>
-                    <li>{{ __('votre demande ;') }}</li>
-                    <li>{{ __('vos disponibilités ou préférences de rendez-vous ;') }}</li>
-                    <li>{{ __('les informations strictement nécessaires à l’organisation de celui-ci.') }}</li>
+                    <li>{{ __('votre identité et vos coordonnées') }}</li>
+                    <li>{{ __('votre demande') }}</li>
+                    <li>{{ __('vos disponibilités ou préférences de rendez-vous') }}</li>
+                    <li>{{ __("les informations strictement nécessaires à l'organisation de celui-ci") }}</li>
                 </ul>
 
                 <div class="privacy-highlight">
@@ -1019,11 +1162,7 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __('Le site du Cabinet Dutrieux peut contenir des liens vers des sites internet ou services appartenant à des tiers.') }}
-                </p>
-
-                <p class="privacy-text">
-                    {{ __("Le Cabinet Dutrieux n'est pas responsable des pratiques de confidentialité, du contenu ou de la sécurité de ces sites tiers.") }}
+                    {{ __('Le site du Cabinet Dutrieux peut contenir des liens vers des sites internet ou services appartenant à des tiers. Le Cabinet Dutrieux n’est pas responsable des pratiques de confidentialité, du contenu ou de la sécurité de ces sites tiers.') }}
                 </p>
 
                 <p class="privacy-text">
@@ -1042,16 +1181,8 @@
                 </h2>
 
                 <p class="privacy-text">
-                    {{ __('La présente politique de confidentialité peut être mise à jour afin de tenir compte :') }}
+                    {{ __("La présente politique de confidentialité peut être mise à jour afin de tenir compte de l'évolution de la législation, des recommandations des autorités compétentes, de l'évolution des activités du Cabinet Dutrieux, du site internet et de ses fonctionnalités, ou des technologies utilisées.") }}
                 </p>
-
-                <ul class="privacy-list">
-                    <li>{{ __('de l’évolution de la législation ;') }}</li>
-                    <li>{{ __('des recommandations des autorités compétentes ;') }}</li>
-                    <li>{{ __('de l’évolution des activités du Cabinet Dutrieux ;') }}</li>
-                    <li>{{ __('de l’évolution du site internet et de ses fonctionnalités ;') }}</li>
-                    <li>{{ __('de l’évolution des technologies utilisées.') }}</li>
-                </ul>
 
                 <p class="privacy-text">
                     {{ __('La version la plus récente sera publiée sur cette page et indiquera sa date de dernière mise à jour.') }}
@@ -1075,62 +1206,31 @@
                 <div class="privacy-contact">
 
                     <p>
-                        <strong>{{ __('Cabinet Dutrieux') }}</strong>
+                        <strong>{{ __('Cabinet Dutrieux SRL — Étude notariale de Maître Charles Yves Dutrieux') }}</strong>
                     </p>
 
                     <p>
-                        {{ __('Étude notariale') }}
+                        {{ __('Rue du Mail 1050 IXELLES CEDEX 4, Belgique') }}
                     </p>
 
                     <p>
-                        Rue du Mail
-                        1050 Ixelles
-                        Belgique
-                    </p>
-
-                    <p>
-                        <strong>{{ __('E-mail :') }}</strong>
-                        contact@cabinetdutrieux.be / maitre.dutrieux@gmail.com
+                        <strong>{{ __("Numéro d'entreprise :") }}</strong>
+                        BE 0798.456.321
                     </p>
 
                     <p>
                         <strong>{{ __('Téléphone :') }}</strong>
-                        +32 465 50 28 01
+                        +32 465 502 801
+                    </p>
+
+                    <p>
+                        <strong>{{ __('E-mail :') }}</strong>
+                        contact@cabinetdutrieux.be
                     </p>
 
                 </div>
 
             </section>
-
-
-            {{-- INFORMATIONS IMPORTANTES --}}
-
-            <div class="privacy-final-note">
-
-                <h2 class="privacy-final-note-title">
-                    {{ __('Informations importantes') }}
-                </h2>
-
-                <p>
-                    {{ __("La présente politique constitue un modèle adapté au contexte d'un cabinet notarial belge et à un site internet comprenant notamment des formulaires de contact et de prise de rendez-vous.") }}
-                </p>
-
-                <p>
-                    {{ __("Avant sa mise en ligne définitive, elle doit être vérifiée et complétée avec les informations propres au Cabinet Dutrieux, notamment l'identité juridique exacte du responsable du traitement, le numéro d'entreprise, les coordonnées officielles, l'adresse e-mail destinée aux demandes relatives aux données personnelles, ainsi que les outils réellement utilisés par le site.") }}
-                </p>
-
-                <p>
-                    {{ __('Les informations relatives à l’hébergement, à la messagerie, aux cookies, aux éventuels services d’analyse, de statistiques, de carte ou de prise de rendez-vous, ainsi que les durées de conservation effectivement appliquées par l’étude doivent également être vérifiées.') }}
-                </p>
-
-                <div class="privacy-highlight">
-
-                    <strong>{{ __('Attention :') }}</strong>
-                    {{ __('cette politique ne doit pas être publiée comme un document juridiquement définitif sans cette vérification préalable.') }}
-
-                </div>
-
-            </div>
 
         </article>
 

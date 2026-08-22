@@ -17,6 +17,8 @@ Route::get('/contact', function () {return view('pages.contact');})->name('conta
 Route::get('/rendez-vous', function () {return view('pages.rendez-vous');})->name('appointment');
 
 Route::get('/privacy-policy', function () {return view('pages.privacy-policy');})->name('privacy-policy');
+Route::get('/legal-notice', function () {return view('pages.legal-notice');})->name('legal-notice');
+Route::get('/cookies', function () {return view('pages.cookies');})->name('cookies');
 
 
 /* Route::get('/blog-show', function () {return view('pages.blog-show');})->name('blog.show');

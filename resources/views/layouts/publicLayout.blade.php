@@ -21,7 +21,8 @@
     <main class="flex-grow-1">
         @yield('content')
     </main>
-
+    @include('components.cookie-banner')
+    
     {{-- Footer public --}}
     @include('components.publicLayout.public-footer')
 

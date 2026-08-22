@@ -4,6 +4,7 @@ import Alpine from 'alpinejs';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import flatpickr from 'flatpickr';
 import { French } from 'flatpickr/dist/l10n/fr.js';
+import './cookie-banner';
 
 import 'flatpickr/dist/flatpickr.min.css';
 

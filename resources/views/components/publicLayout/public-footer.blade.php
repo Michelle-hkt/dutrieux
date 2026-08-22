@@ -62,7 +62,7 @@
                     </li>
 
                     <li>
-                        <a href="{{ url('/appointment') }}">
+                        <a href="{{ route('appointment') }}">
                             {{ __('Rendez-vous') }}
                         </a>
                     </li>
@@ -97,14 +97,18 @@
                         </a>
                     </p>
 
-                    <p>
+                    <p class="public-footer__emails">
                         <i class="bi bi-envelope"></i>
-                        <a href="mailto:contact@cabinetdutrieux.be">
-                            contact@cabinetdutrieux.be
-                        </a> /
-                        <a href="mailto:maitre.dutrieux@gmail.com">
-                            maitre.dutrieux@gmail.com
-                        </a>
+
+                        <span>
+                            <a href="mailto:contact@cabinetdutrieux.be">
+                                contact@cabinetdutrieux.be
+                            </a>
+
+                            <a href="mailto:maitre.dutrieux@gmail.com">
+                                maitre.dutrieux@gmail.com
+                            </a>
+                        </span>
                     </p>
 
                 </div>
@@ -126,7 +130,7 @@
 
             <div class="public-footer__legal">
 
-                <a href="#">
+                <a href="{{ url('/legal-notice') }}">
                     {{ __('Mentions légales') }}
                 </a>
 

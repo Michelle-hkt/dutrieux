@@ -1,0 +1,365 @@
+/* =========================================================
+   COOKIE BANNER
+========================================================= */
+
+.cookie-banner {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    z-index: 1090;
+
+    width: 100%;
+
+    padding: 22px 24px;
+
+    background-color: rgba(255, 255, 255, 0.98);
+
+    border-top: 1px solid #eee3e4;
+
+    box-shadow: 0 -10px 35px rgba(104, 31, 45, 0.08);
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    animation: cookie-banner-enter 0.35s ease-out;
+}
+
+
+/* =========================================================
+   CONTENT
+========================================================= */
+
+.cookie-banner-content {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 40px;
+
+    width: 100%;
+
+    max-width: 1180px;
+
+    margin: 0 auto;
+}
+
+
+/* =========================================================
+   TEXT
+========================================================= */
+
+.cookie-banner-text {
+    flex: 1;
+
+    min-width: 0;
+}
+
+
+.cookie-banner-title {
+    margin: 0 0 8px;
+
+    color: #681f2d;
+
+    font-family: Georgia, "Times New Roman", serif;
+
+    font-size: 1.15rem;
+
+    font-weight: 700;
+
+    line-height: 1.35;
+}
+
+
+.cookie-banner-description {
+    max-width: 850px;
+
+    margin: 0;
+
+    color: #63565a;
+
+    font-size: 0.82rem;
+
+    line-height: 1.7;
+}
+
+
+/* =========================================================
+   LINK
+========================================================= */
+
+.cookie-banner-link {
+    margin-left: 4px;
+
+    color: #681f2d;
+
+    font-weight: 600;
+
+    text-decoration: underline;
+
+    text-decoration-color: #c9aeb3;
+
+    text-underline-offset: 3px;
+
+    transition:
+        color 0.2s ease,
+        text-decoration-color 0.2s ease;
+}
+
+
+.cookie-banner-link:hover {
+    color: #8b2c3a;
+
+    text-decoration-color: #8b2c3a;
+}
+
+
+/* =========================================================
+   ACTIONS
+========================================================= */
+
+.cookie-banner-actions {
+    display: flex;
+
+    align-items: center;
+
+    flex-shrink: 0;
+
+    gap: 10px;
+}
+
+
+/* =========================================================
+   BUTTONS
+========================================================= */
+
+.cookie-banner-button {
+    min-width: 105px;
+
+    padding: 11px 20px;
+
+    border: 1px solid transparent;
+
+    border-radius: 0;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 0.78rem;
+
+    font-weight: 700;
+
+    letter-spacing: 0.03em;
+
+    line-height: 1.2;
+
+    cursor: pointer;
+
+    transition:
+        background-color 0.25s ease,
+        color 0.25s ease,
+        border-color 0.25s ease,
+        transform 0.2s ease;
+}
+
+
+.cookie-banner-button:hover {
+    transform: translateY(-1px);
+}
+
+
+.cookie-banner-button:focus-visible {
+    outline: 2px solid #8b2c3a;
+
+    outline-offset: 3px;
+}
+
+
+/* =========================================================
+   SECONDARY BUTTON
+========================================================= */
+
+.cookie-banner-button-secondary {
+    color: #681f2d;
+
+    background-color: transparent;
+
+    border-color: #c9aeb3;
+}
+
+
+.cookie-banner-button-secondary:hover {
+    color: #ffffff;
+
+    background-color: #681f2d;
+
+    border-color: #681f2d;
+}
+
+
+/* =========================================================
+   PRIMARY BUTTON
+========================================================= */
+
+.cookie-banner-button-primary {
+    color: #ffffff;
+
+    background-color: #681f2d;
+
+    border-color: #681f2d;
+}
+
+
+.cookie-banner-button-primary:hover {
+    background-color: #8b2c3a;
+
+    border-color: #8b2c3a;
+}
+
+.cookie-banner {
+    transition:
+        opacity 1.5s ease,
+        transform 1.5s ease,
+        visibility 1.5s ease;
+}
+
+.cookie-banner.is-closing {
+    opacity: 0;
+    transform: translateY(20px);
+    visibility: hidden;
+    pointer-events: none;
+}
+
+
+/* =========================================================
+   EXIT ANIMATION
+========================================================= */
+
+.cookie-banner.cookie-banner-closing {
+    animation: cookie-banner-exit 0.25s ease-in forwards;
+}
+
+
+@keyframes cookie-banner-enter {
+
+    from {
+        opacity: 0;
+
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+
+        transform: translateY(0);
+    }
+}
+
+
+@keyframes cookie-banner-exit {
+
+    from {
+        opacity: 1;
+
+        transform: translateY(0);
+    }
+
+    to {
+        opacity: 0;
+
+        transform: translateY(20px);
+    }
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media screen and (max-width: 900px) {
+
+    .cookie-banner-content {
+        align-items: flex-start;
+
+        gap: 25px;
+    }
+
+    .cookie-banner-actions {
+        padding-top: 2px;
+    }
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media screen and (max-width: 700px) {
+
+    .cookie-banner {
+        padding: 22px 18px;
+    }
+
+    .cookie-banner-content {
+        flex-direction: column;
+
+        align-items: stretch;
+
+        gap: 18px;
+    }
+
+    .cookie-banner-description {
+        font-size: 0.8rem;
+    }
+
+    .cookie-banner-actions {
+        width: 100%;
+    }
+
+    .cookie-banner-button {
+        flex: 1;
+    }
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+========================================================= */
+
+@media screen and (max-width: 480px) {
+
+    .cookie-banner {
+        padding: 20px 15px;
+    }
+
+    .cookie-banner-title {
+        font-size: 1.05rem;
+    }
+
+    .cookie-banner-description {
+        font-size: 0.78rem;
+
+        line-height: 1.65;
+    }
+
+    .cookie-banner-link {
+        display: inline-block;
+
+        margin-top: 4px;
+
+        margin-left: 0;
+    }
+
+    .cookie-banner-actions {
+        gap: 8px;
+    }
+
+    .cookie-banner-button {
+        min-width: 0;
+
+        padding: 11px 12px;
+
+        font-size: 0.74rem;
+    }
+}

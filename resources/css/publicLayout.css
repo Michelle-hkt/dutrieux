@@ -594,6 +594,18 @@
     color: #ffffff;
 }
 
+.public-footer__emails span {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    gap: 0.2rem;
+}
+
+.public-footer__emails a {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+}
+
 
 /* =========================================================
    FOOTER — BOTTOM
